@@ -3,6 +3,9 @@
 * 1.ASPECTOS DE LA ORGANIZACIÓN
 + 1.1.  VISIÓN 
 + 1.2  MISIÓN
+
+
+Ser referente en innovación y en enseñanza-aprendizaje bajo la modalidad virtual, contribuyendo al fortalecimiento del gobierno digital.
 + 	1.3   OBJETIVOS
 + 	1.4   ANTECEDENTES
 + 	1.5   ORGANIGRAMA 
