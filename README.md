@@ -8,13 +8,39 @@ Ser ente facilitador de las plataformas virtuales, promotor, innovador e instruc
 + 1.2  MISIÓN
 
 
-Ser referente en innovación y en enseñanza-aprendizaje bajo la modalidad virtual, contribuyendo al fortalecimiento del gobierno digital.
+Ser referente en innovación y en enseñanza-aprendizaje bajo la modalidad virtual, contribuyendo al fortalecimiento del estudiante.
 + 	1.3   OBJETIVOS
+
+
+Facilitar al estudiante una herramienta digital, que ayudara en sus estudios digitales, ante el aislamiento que nos vimos afectados en los últimos años.
 + 	1.4   ANTECEDENTES
+
+
+En la actualidad la educación virtual ha dado un cambio radical en los individuos, facilitando todas las actividades de auto-aprendizaje pues con esta nueva modalidad el alumno es dueño de su tiempo, de su horario y de su lugar de estudio y todo esto con solo una conexión a internet.
 + 	1.5   ORGANIGRAMA 
+
+
 + 1.6. AMBITO DEL PROYECTO 
-    - 1.6.1. Área (donde se va a aplicar el Proyecto )
+    - 1.6.1. Área 
+
+
+    El software está dirigido a la comunidad estuduantil que optaron continuar sus estudias generales por medio de las tecnologias de información.
     - 1.6.2. Recursos Humanos (Necesarios para el Proyecto)
-    - 1.6.3. Software (Necesario para el Proyecto)
+
+
+
+    - 1.6.3. Software 
+
+
+    El servicio web  contará con los siguientes requisitos:
+    * php 7.0
+    * sql server 2019
+    * vue.js 3 
     - 16.4. Hardware (Necesario para el Proyecto)
+
+
+    Los complemtos que se nesecitaran son los seguientes:
+    * Procesador de x86 o x64 bits de doble núcleo de 1,9 gigahercios (GHz) o más con el conjunto de instrucciones SSE2.
+    * 2 GB de RAM.
+    * Súper VGA con una resolución de 1024 x 768.
     - 1.6.5. Cronograma de Actividades 
