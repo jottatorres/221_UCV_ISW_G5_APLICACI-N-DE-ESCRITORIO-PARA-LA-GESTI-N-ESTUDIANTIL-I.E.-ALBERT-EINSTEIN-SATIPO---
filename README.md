@@ -2,6 +2,9 @@
 # INDICE
 * 1.ASPECTOS DE LA ORGANIZACIÓN
 + 1.1.  VISIÓN 
+
+
+Ser ente facilitador de las plataformas virtuales, promotor, innovador e instructor en herramientas tecnológicas digitales y pedagógicas bajo la modalidad virtual, contribuyendo y fortaleciendo el proceso educativo y mejorando el nivel profesional en la educación.
 + 1.2  MISIÓN
 
 
