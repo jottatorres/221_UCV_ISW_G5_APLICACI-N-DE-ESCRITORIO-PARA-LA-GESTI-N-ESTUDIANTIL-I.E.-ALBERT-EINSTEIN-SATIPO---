@@ -1,6 +1,6 @@
 # SISTEMA WEB PARA LA GESTIÓN ESTUDIANTIL #
 
-## INTEGRANTES
+                            ## INTEGRANTES
 + Acuña Martel, Andree Fide
 + Curay Pari, Jenifer Valeri
 + Holguín Cueva, Pedro Alejandro
