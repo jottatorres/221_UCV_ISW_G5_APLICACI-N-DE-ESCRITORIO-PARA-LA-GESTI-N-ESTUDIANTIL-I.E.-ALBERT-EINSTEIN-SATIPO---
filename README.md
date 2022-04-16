@@ -29,7 +29,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 
 ### 1.6. AMBITO DEL PROYECTO 
-    - 1.6.1. Área 
+   - 1.6.1. Área 
 
 
     El software está dirigido a la comunidad estuduantil que optaron continuar sus estudias generales por medio de las tecnologias de información.
@@ -56,6 +56,14 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
     
     
-    #2	ASPECTOS DEL NEGOCIO
+  # 2	ASPECTOS DEL NEGOCIO
 
-       ##	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+##	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+
+       En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y entre ellos el sector estudiantil
+se vio obligado a continuar sus labores dentro de casa haciendo uso de las Tecnologías de la información para ello
+se busca implementar un sistema informático en el cual profesores, docentes alumnos y padres de familia puedan tener
+un control y registro de sus labores diarias dentro de la institución y poder sistematizar todos los procesos en una aplicación 
+web pensada para ello.
+
+
