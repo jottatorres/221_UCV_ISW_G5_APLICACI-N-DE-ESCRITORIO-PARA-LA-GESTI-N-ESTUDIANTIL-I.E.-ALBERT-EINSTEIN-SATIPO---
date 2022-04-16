@@ -29,15 +29,15 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 
 ### 1.6. AMBITO DEL PROYECTO 
-    + 1.6.1. Área 
+    - 1.6.1. Área 
 
 
     El software está dirigido a la comunidad estuduantil que optaron continuar sus estudias generales por medio de las tecnologias de información.
-    + 1.6.2. Recursos Humanos (Necesarios para el Proyecto)
+    - 1.6.2. Recursos Humanos (Necesarios para el Proyecto)
 
 
 
-    + 1.6.3. Software 
+    - 1.6.3. Software 
 
 
     El servicio web  contará con los siguientes requisitos:
