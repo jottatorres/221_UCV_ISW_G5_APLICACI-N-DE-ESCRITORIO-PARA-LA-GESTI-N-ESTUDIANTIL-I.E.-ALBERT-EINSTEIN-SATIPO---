@@ -9,27 +9,26 @@
 # INDICE
 ## 1.ASPECTOS DE LA ORGANIZACIÓN
 
- ### 1.1.  VISIÓN 
+### 1.1.  VISIÓN 
 
 
 Ser ente facilitador de las plataformas virtuales, promotor, innovador e instructor en herramientas tecnológicas digitales y pedagógicas bajo la modalidad virtual, contribuyendo y fortaleciendo el proceso educativo y mejorando el nivel profesional en la educación.
-
-#### 1.2  MISIÓN
+### 1.2  MISIÓN
 
 
 Ser referente en innovación y en enseñanza-aprendizaje bajo la modalidad virtual, contribuyendo al fortalecimiento del estudiante.
-##### 	1.3   OBJETIVOS
+### 	1.3   OBJETIVOS
 
 
 Facilitar al estudiante una herramienta digital, que ayudara en sus estudios digitales, ante el aislamiento que nos vimos afectados en los últimos años.
-###### 	1.4   ANTECEDENTES
+### 	1.4   ANTECEDENTES
 
 
 En la actualidad la educación virtual ha dado un cambio radical en los individuos, facilitando todas las actividades de auto-aprendizaje pues con esta nueva modalidad el alumno es dueño de su tiempo, de su horario y de su lugar de estudio y todo esto con solo una conexión a internet.
-######	1.5   ORGANIGRAMA 
+### 	1.5   ORGANIGRAMA 
 
 
-+ 1.6. AMBITO DEL PROYECTO 
+### 1.6. AMBITO DEL PROYECTO 
     - 1.6.1. Área 
 
 
