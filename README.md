@@ -1,4 +1,4 @@
-# SISTEMA WEB PARA LA GESTIÓN ESTUDIANTIL
+# SISTEMA WEB PARA LA GESTIÓN ESTUDIANTIL #
 
 # INTEGRANTES
 + Acuña Martel, Andree Fide
@@ -7,7 +7,7 @@
 + Tolentino Mallaopoma, Luis Alberto
 + Torres Durán, Jhoslin
 # INDICE
-## 1.ASPECTOS DE LA ORGANIZACIÓN
+## 1. ASPECTOS DE LA ORGANIZACIÓN
 
 ### 1.1.  VISIÓN 
 
