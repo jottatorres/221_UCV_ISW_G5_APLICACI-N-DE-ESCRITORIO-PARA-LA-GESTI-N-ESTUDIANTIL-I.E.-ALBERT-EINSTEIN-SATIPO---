@@ -53,5 +53,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
     - 1.6.5. Cronograma de Actividades 
 
 
-    * 2.	ASPECTOS DEL NEGOCIO
-         +	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+    
+    
+    #2	ASPECTOS DEL NEGOCIO
+         ##	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
