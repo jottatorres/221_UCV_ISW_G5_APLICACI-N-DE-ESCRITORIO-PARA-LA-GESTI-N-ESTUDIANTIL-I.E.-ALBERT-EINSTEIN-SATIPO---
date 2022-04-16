@@ -1,4 +1,11 @@
-# SISTEMA WEB VIRTUAL DEDICADA A LA EDUCACIÓN
+# SISTEMA WEB PARA LA GESTIÓN ESTUDIANTIL
+
+* INTEGRANTES
++ Acuña Martel, Andree Fide
++ Curay Pari, Jenifer Valeri
++ Holguín Cueva, Pedro Alejandro
++ Holguín Cueva, Pedro Alejandro
++ Torres Durán, Jhoslin
 # INDICE
 * 1.ASPECTOS DE LA ORGANIZACIÓN
 + 1.1.  VISIÓN 
