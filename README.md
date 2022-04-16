@@ -56,4 +56,5 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
     
     
     #2	ASPECTOS DEL NEGOCIO
-         ##	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+
+       ##	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
