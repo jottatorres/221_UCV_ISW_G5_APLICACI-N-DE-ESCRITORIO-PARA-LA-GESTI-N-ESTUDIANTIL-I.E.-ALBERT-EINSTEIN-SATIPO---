@@ -51,3 +51,5 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
     * 2 GB de RAM.
     * Súper VGA con una resolución de 1024 x 768.
     - 1.6.5. Cronograma de Actividades 
+    * 2.	ASPECTOS DEL NEGOCIO
+         +	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
