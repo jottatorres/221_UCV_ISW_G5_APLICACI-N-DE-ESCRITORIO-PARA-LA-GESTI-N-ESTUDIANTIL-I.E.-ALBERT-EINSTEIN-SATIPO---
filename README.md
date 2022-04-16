@@ -1,10 +1,10 @@
 # SISTEMA WEB PARA LA GESTIÓN ESTUDIANTIL
 
-* INTEGRANTES
+# INTEGRANTES
 + Acuña Martel, Andree Fide
 + Curay Pari, Jenifer Valeri
 + Holguín Cueva, Pedro Alejandro
-+ Holguín Cueva, Pedro Alejandro
++ Tolentino Mallaopoma, Luis Alberto
 + Torres Durán, Jhoslin
 # INDICE
 * 1.ASPECTOS DE LA ORGANIZACIÓN
