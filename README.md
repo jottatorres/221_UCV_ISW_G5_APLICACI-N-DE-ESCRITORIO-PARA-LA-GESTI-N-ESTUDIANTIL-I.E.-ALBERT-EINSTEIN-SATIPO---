@@ -34,7 +34,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
     El software está dirigido a la comunidad estuduantil que optaron continuar sus estudias generales por medio de las tecnologias de información.
 
-    
+
     - 1.6.2. Recursos Humanos (Necesarios para el Proyecto)
 
 
@@ -49,7 +49,8 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
     - 16.4. Hardware (Necesario para el Proyecto)
 
 
-    Los complemtos que se nesecitaran son los seguientes:
+    Los complementos que se nesecitaran son los siguientes:
+    * Una conección de internet.
     * Procesador de x86 o x64 bits de doble núcleo de 1,9 gigahercios (GHz) o más con el conjunto de instrucciones SSE2.
     * 2 GB de RAM.
     * Súper VGA con una resolución de 1024 x 768.
