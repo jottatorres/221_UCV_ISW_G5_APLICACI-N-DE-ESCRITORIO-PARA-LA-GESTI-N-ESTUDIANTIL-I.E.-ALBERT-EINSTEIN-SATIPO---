@@ -33,6 +33,8 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 
     El software está dirigido a la comunidad estuduantil que optaron continuar sus estudias generales por medio de las tecnologias de información.
+
+    
     - 1.6.2. Recursos Humanos (Necesarios para el Proyecto)
 
 
