@@ -35,25 +35,25 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
     El software está dirigido a la comunidad estuduantil que optaron continuar sus estudias generales por medio de las tecnologias de información.
 
 
-    - 1.6.2. Recursos Humanos (Necesarios para el Proyecto)
+   #### 1.6.2. Recursos Humanos (Necesarios para el Proyecto)
 
 
 
-    - 1.6.3. Software 
+   #### 1.6.3. Software 
 
     El servicio web  contará con los siguientes requisitos:
     * php 7.0
     * sql server 2019
     * vue.js 3 
 
-    - 16.4. Hardware (Necesario para el Proyecto)
+   #### 16.4. Hardware (Necesario para el Proyecto)
 
     Los complementos que se nesecitaran son los siguientes:
     * Una conección de internet.
     * Procesador de x86 o x64 bits de doble núcleo de 1,9 gigahercios (GHz) o más con el conjunto de instrucciones SSE2.
     * 2 GB de RAM.
     * Súper VGA con una resolución de 1024 x 768.
-    - 1.6.5. Cronograma de Actividades 
+   #### 1.6.5. Cronograma de Actividades 
 
 
     
