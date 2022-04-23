@@ -64,7 +64,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
     
     
-  # 2	ASPECTOS DEL NEGOCIO
+  # 2.	ASPECTOS DEL NEGOCIO
 
 ##	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
 
@@ -74,5 +74,19 @@ se vio obligado a continuar sus labores dentro de casa haciendo uso de las Tecno
 se busca implementar un sistema informático en el cual profesores, docentes alumnos y padres de familia puedan tener
 un control y registro de sus labores diarias dentro de la institución y poder sistematizar todos los procesos en una aplicación 
 web pensada para ello.
+
+   # 3.	METODOLOGÍA
+
+ ##  3.1. Modelo de Requerimientos.
+
+ ###  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
+
+ ![Cuadro](https://dragon.online-convert.com/es/download-file/10338f52-9e07-4896-a099-db253462dd69/150cd364-79e3-4f0b-9c3d-c9a732082ff9?qr=true)
+
+ ###    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
+
+![Cuadro2](https://dragon.online-convert.com/es/download-file/b99ff926-2c58-4d73-a7bf-ec48358d4db7/5ad3ebad-6776-4206-a425-e2af4c05728d?qr=true)
+
+
 
 
