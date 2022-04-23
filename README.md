@@ -1,3 +1,6 @@
+![Logo UCV](https://ucv.blackboard.com/branding/_1_1/loginLogo/CustomLoginLogo.png?m=k9sq4hbz)
+
+
 # SISTEMA WEB PARA LA GESTIÓN ESTUDIANTIL COLEGIO Y ACADEMIA CRL. "LEONCIO PRADO GUTIÉRREZ"
 
 ## INTEGRANTES 
