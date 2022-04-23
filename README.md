@@ -3,8 +3,9 @@
 
 # SISTEMA WEB PARA LA GESTIÓN ESTUDIANTIL COLEGIO Y ACADEMIA CRL. "LEONCIO PRADO GUTIÉRREZ"
 
-## DOCENTE: Berrocal Navarro Richard Leonardo (ORCID: 0000-0001-8718-3150)
+## DOCENTE: Berrocal Navarro Richard Leonardo 
 
+### (ORCID: 0000-0001-8718-3150)
 
 ## INTEGRANTES 
 + Acuña Martel, Andree Fide
