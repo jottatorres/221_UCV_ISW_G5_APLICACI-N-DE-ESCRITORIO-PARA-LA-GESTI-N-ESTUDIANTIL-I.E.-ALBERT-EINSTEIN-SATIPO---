@@ -12,7 +12,7 @@
 + Curay Pari, Jenifer Valeri (orcid.org/0000-0001-7386-0448)
 + Holguín Cueva, Pedro Alejandro
 + Tolentino Mallaopoma, Luis Alberto
-+ Torres Durán, Jhoslin
++ Torres Durán, Jhoslin Yener (orcid.org/0000-0001-6998-136) 
 
 # INDICE
 ## 1. ASPECTOS DE LA ORGANIZACIÓN
@@ -35,25 +35,31 @@ Facilitar al estudiante una herramienta digital, que ayudara en sus estudios dig
 En la actualidad la educación virtual ha dado un cambio radical en los individuos, facilitando todas las actividades de auto-aprendizaje pues con esta nueva modalidad el alumno es dueño de su tiempo, de su horario y de su lugar de estudio y todo esto con solo una conexión a internet.
 ### 	1.5   ORGANIGRAMA 
 
-
+![Organigrama](https://dragon.online-convert.com/es/download-file/27595941-a234-44d6-98e2-f9d598949212/8548fa52-105f-4f75-9d7c-696eb4adf979?qr=true)
 ### 1.6. AMBITO DEL PROYECTO 
 
    #### 1.6.1. Área 
   El software está dirigido a la comunidad estuduantil que optaron continuar sus estudias generales por medio de las tecnologias de información.
 
 
-   #### 1.6.2. Recursos Humanos (Necesarios para el Proyecto)
+   #### 1.6.2. Recursos Humanos 
 
+   ![RecursosHumanos](https://dragon.online-convert.com/es/download-file/0792569b-7c9b-4497-aca6-37fe068364b5/35fbd333-3a29-477f-b5e9-e5a947fdc09d?qr=true)
 
 
    #### 1.6.3. Software 
 
   El servicio web  contará con los siguientes requisitos:
-  * php 7.0
-  * sql server 2019
-  * vue.js 3 
+*	SQL Server 2019
+* Netbeans
+*	GitHub
+*	Visual Studio Code
+* Enterprise Architect
+*	Microsoft Word
+*	Microsoft Excel
 
-   #### 1.6.4. Hardware (Necesario para el Proyecto)
+
+   #### 1.6.4. Hardware 
 
   Los complementos que se nesecitaran son los siguientes:
   * Una conección de internet.
@@ -84,11 +90,11 @@ web pensada para ello.
 
  ####  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
 
- ![Cuadro1](https://dragon.online-convert.com/es/download-file/10338f52-9e07-4896-a099-db253462dd69/150cd364-79e3-4f0b-9c3d-c9a732082ff9?qr=true)
+
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
-![Cuadro2](https://dragon.online-convert.com/es/download-file/b99ff926-2c58-4d73-a7bf-ec48358d4db7/5ad3ebad-6776-4206-a425-e2af4c05728d?qr=true)
+
 
 
 
