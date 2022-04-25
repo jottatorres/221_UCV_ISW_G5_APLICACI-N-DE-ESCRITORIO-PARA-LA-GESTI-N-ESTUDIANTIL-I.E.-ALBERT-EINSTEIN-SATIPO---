@@ -8,11 +8,11 @@
 ### (ORCID: 0000-0001-8718-3150)
 
 ## INTEGRANTES 
-+ Acuña Martel, Andree Fidel
-+ Curay Pari, Jenifer Valeri (orcid.org/0000-0001-7386-0448)
-+ Holguín Cueva, Pedro Alejandro
-+ Tolentino Mallaopoma, Luis Alberto
-+ Torres Durán, Jhoslin Yener (orcid.org/0000-0001-6998-136) 
++ Acuña Martel, Andree Fidel (0000-0001-7936-5771)
++ Curay Pari, Jenifer Valeri (0000-0001-7386-0448)
++ Holguín Cueva, Pedro Alejandro (0000-0001-6641-6752)
++ Tolentino Mallaopoma, Luis Alberto (0000-0003-1234-9667)
++ Torres Durán, Jhoslin Yener (0000-0001-6998-136) 
 
 # INDICE
 ## 1. ASPECTOS DE LA ORGANIZACIÓN
