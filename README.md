@@ -1,7 +1,7 @@
 ![Logo UCV](https://ucv.blackboard.com/branding/_1_1/loginLogo/CustomLoginLogo.png?m=k9sq4hbz)
 
 
-# SISTEMA WEB PARA LA GESTIÓN ESTUDIANTIL COLEGIO Y ACADEMIA CRL. "LEONCIO PRADO GUTIÉRREZ"
+# APLICACIÓN DE ESCRITORIO PARA LA GESTIÓN ESTUDIANTIL I.E. "ALBERT EINSTEIN" SATIPO - JUNÍN
 
 ## DOCENTE: Berrocal Navarro Richard Leonardo 
 
@@ -90,12 +90,28 @@ web pensada para ello.
 
  ####  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
 
-
+![RF](https://dragon.online-convert.com/es/download-file/d38774fd-01a2-416c-a1b4-f28d422afb21/b7032e28-8718-413a-be02-c811c5fb3c39?qr=true)
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
+![RNF](https://dragon.online-convert.com/es/download-file/a5f8fb5a-90cb-4e3b-a3ff-a682aa6f7abe/c54bcbe3-b45b-43fb-8d2b-cf3c523960a0?qr=true)
+
+####     3.1.3.   Relación de actores y su descripción, cuadro indicando
+
+![ACTORES](https://dragon.online-convert.com/es/download-file/aaa0275e-2e30-4625-ae83-e852af1626ce/98984c60-d3bb-4caa-8775-2d2959ae2df6?qr=true)
 
 
+####     3.1.4.   Relación de casos de uso, cuadro indicando
+
+![CASOSDEUSO](https://dragon.online-convert.com/es/download-file/dbff6229-e49d-4ffd-88ff-428a87b10f59/a4677210-5fc9-4765-9986-2c21a09d41c9?qr=true)
+
+####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
+
+![CU1](https://dragon.online-convert.com/es/download-file/c5f0da54-3c54-443a-b74d-9ad480e0db3b/9dce5859-9b7e-422b-8252-608bbbaa20f5?qr=true)
 
 
+![CU2](https://dragon.online-convert.com/es/download-file/e5d622e9-2fe8-482d-8a63-faea8f29513d/ee08accd-8a1a-4700-a0c4-990cfc2b8270?qr=true)
+
+
+![CU3](https://dragon.online-convert.com/es/download-file/89eaf615-1113-4ba7-a755-5a34a6ef2859/9372b91f-6f21-4f9b-abf8-654f88913654?qr=true)
 
