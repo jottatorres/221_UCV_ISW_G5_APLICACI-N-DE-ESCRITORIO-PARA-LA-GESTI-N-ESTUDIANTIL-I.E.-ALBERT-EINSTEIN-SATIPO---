@@ -35,7 +35,7 @@ Facilitar al estudiante una herramienta digital, que ayudara en sus estudios dig
 En la actualidad la educación virtual ha dado un cambio radical en los individuos, facilitando todas las actividades de auto-aprendizaje pues con esta nueva modalidad el alumno es dueño de su tiempo, de su horario y de su lugar de estudio y todo esto con solo una conexión a internet.
 ### 	1.5   ORGANIGRAMA 
 
-![Organigrama](https://dragon.online-convert.com/es/download-file/27595941-a234-44d6-98e2-f9d598949212/8548fa52-105f-4f75-9d7c-696eb4adf979?qr=true)
+![Organigrama](https://dragon.online-convert.com/es/download-file/9a5d06fd-b645-4759-aa7d-9d8541c16b2a/bfcf57d8-c268-45a5-8b9d-7b2486ca3ae5?qr=true)
 ### 1.6. AMBITO DEL PROYECTO 
 
    #### 1.6.1. Área 
@@ -44,7 +44,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
    #### 1.6.2. Recursos Humanos 
 
-   ![RecursosHumanos](https://dragon.online-convert.com/es/download-file/0792569b-7c9b-4497-aca6-37fe068364b5/35fbd333-3a29-477f-b5e9-e5a947fdc09d?qr=true)
+   ![RecursosHumanos](https://dragon.online-convert.com/es/download-file/9916b4fa-9267-452d-8bfe-f6478156fb7a/2aef1d41-1ee2-4acf-93d6-fdfe89ea50cd?qr=true)
 
 
    #### 1.6.3. Software 
@@ -68,7 +68,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * Súper VGA con una resolución de 1024 x 768.
    #### 1.6.5. Cronograma de Actividades 
 
-   ![Cronograma](https://dragon.online-convert.com/es/download-file/265e8ddb-7933-4202-8099-b1912d33ac97/2a2be442-7fc6-4078-a165-58174a296e00?qr=true)
+   ![Cronograma](https://dragon.online-convert.com/es/download-file/bbc7ffa0-8573-4058-98d0-aa37690ff899/f33e3bd5-7d90-497a-993b-7ebe7181284e?qr=true)
 
 
     
