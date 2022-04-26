@@ -67,12 +67,8 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * 2 GB de RAM.
   * Súper VGA con una resolución de 1024 x 768.
    #### 1.6.5. Cronograma de Actividades 
-
-<<<<<<< Updated upstream
-   ![Cronograma](https://dragon.online-convert.com/es/download-file/bbc7ffa0-8573-4058-98d0-aa37690ff899/f33e3bd5-7d90-497a-993b-7ebe7181284e?qr=true)
 =======
    ![Cronograma](https://i.imgur.com/Epa80Mj.jpg)
->>>>>>> Stashed changes
 
 
     
