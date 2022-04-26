@@ -35,7 +35,7 @@ Facilitar al estudiante una herramienta digital, que ayudara en sus estudios dig
 En la actualidad la educación virtual ha dado un cambio radical en los individuos, facilitando todas las actividades de auto-aprendizaje pues con esta nueva modalidad el alumno es dueño de su tiempo, de su horario y de su lugar de estudio y todo esto con solo una conexión a internet.
 ### 	1.5   ORGANIGRAMA 
 
-![Organigrama](https://dragon.online-convert.com/es/download-file/9a5d06fd-b645-4759-aa7d-9d8541c16b2a/bfcf57d8-c268-45a5-8b9d-7b2486ca3ae5?qr=true)
+![Organigrama](https://i.imgur.com/Epa80Mj.jpg)
 ### 1.6. AMBITO DEL PROYECTO 
 
    #### 1.6.1. Área 
@@ -49,14 +49,14 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
    #### 1.6.3. Software 
 
-  El servicio web  contará con los siguientes requisitos:
-*	SQL Server 2019
-* Netbeans
+  La aplicación contará con los siguientes requisitos:
+*	MYSQL
+*  Netbeans
 *	GitHub
-*	Visual Studio Code
-* Enterprise Architect
+*  Enterprise Architect
 *	Microsoft Word
 *	Microsoft Excel
+* Sistema Operativo multiplataforma bajo Windows, Linux y Mac OSX
 
 
    #### 1.6.4. Hardware 
@@ -67,7 +67,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * 2 GB de RAM.
   * Súper VGA con una resolución de 1024 x 768.
    #### 1.6.5. Cronograma de Actividades 
-   ![Cronograma](https://i.imgur.com/Epa80Mj.jpg)
+   ![Cronograma](https://i.imgur.com/P1qRMPK.jpg)
   # 2.	ASPECTOS DEL NEGOCIO
 
 ###	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
@@ -85,11 +85,11 @@ web pensada para ello.
 
  ####  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
 
-![RF](https://dragon.online-convert.com/es/download-file/d38774fd-01a2-416c-a1b4-f28d422afb21/b7032e28-8718-413a-be02-c811c5fb3c39?qr=true)
+![RF](https://i.imgur.com/K6gXJKu.jpg)
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
-![RNF](https://dragon.online-convert.com/es/download-file/a5f8fb5a-90cb-4e3b-a3ff-a682aa6f7abe/c54bcbe3-b45b-43fb-8d2b-cf3c523960a0?qr=true)
+![RNF](https://i.imgur.com/FBWCRz6.jpg)
 
 ####     3.1.3.   Relación de actores y su descripción, cuadro indicando
 
@@ -98,16 +98,16 @@ web pensada para ello.
 
 ####     3.1.4.   Relación de casos de uso, cuadro indicando
 
-![CASOSDEUSO](https://dragon.online-convert.com/es/download-file/dbff6229-e49d-4ffd-88ff-428a87b10f59/a4677210-5fc9-4765-9986-2c21a09d41c9?qr=true)
+![CASOSDEUSO](https://i.imgur.com/wDxFJWX.jpg)
 
 ####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
 
-![CU1](https://dragon.online-convert.com/es/download-file/c5f0da54-3c54-443a-b74d-9ad480e0db3b/9dce5859-9b7e-422b-8252-608bbbaa20f5?qr=true)
+![CU1](https://i.imgur.com/4850Ksl.jpg)
 
 
-![CU2](https://dragon.online-convert.com/es/download-file/e5d622e9-2fe8-482d-8a63-faea8f29513d/ee08accd-8a1a-4700-a0c4-990cfc2b8270?qr=true)
+![CU2](https://i.imgur.com/jR4iTeT.jpg)
 
 
-![CU3](https://dragon.online-convert.com/es/download-file/89eaf615-1113-4ba7-a755-5a34a6ef2859/9372b91f-6f21-4f9b-abf8-654f88913654?qr=true)
+![CU3](https://i.imgur.com/8IZdybW.jpg)
 
 
