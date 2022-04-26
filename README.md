@@ -67,12 +67,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * 2 GB de RAM.
   * Súper VGA con una resolución de 1024 x 768.
    #### 1.6.5. Cronograma de Actividades 
-=======
    ![Cronograma](https://i.imgur.com/Epa80Mj.jpg)
-
-
-    
-    
   # 2.	ASPECTOS DEL NEGOCIO
 
 ###	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
@@ -98,7 +93,7 @@ web pensada para ello.
 
 ####     3.1.3.   Relación de actores y su descripción, cuadro indicando
 
-![ACTORES](https://dragon.online-convert.com/es/download-file/aaa0275e-2e30-4625-ae83-e852af1626ce/98984c60-d3bb-4caa-8775-2d2959ae2df6?qr=true)
+![ACTORES](https://i.imgur.com/ktPHtoN.jpg)
 
 
 ####     3.1.4.   Relación de casos de uso, cuadro indicando
