@@ -44,7 +44,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
    #### 1.6.2. Recursos Humanos 
 
-   ![RecursosHumanos](https://dragon.online-convert.com/es/download-file/9916b4fa-9267-452d-8bfe-f6478156fb7a/2aef1d41-1ee2-4acf-93d6-fdfe89ea50cd?qr=true)
+   ![RecursosHumanos](https://i.imgur.com/sgB02mZ.jpg)
 
 
    #### 1.6.3. Software 
@@ -113,4 +113,7 @@ web pensada para ello.
 
 ![CU4](https://i.imgur.com/ezcJvvA.jpg)
 
+####     3.1.6.   Plantilla de especificación de casos de uso
+
+![PLANTILLA](https://i.imgur.com/wOKXe9d.jpg)
 
