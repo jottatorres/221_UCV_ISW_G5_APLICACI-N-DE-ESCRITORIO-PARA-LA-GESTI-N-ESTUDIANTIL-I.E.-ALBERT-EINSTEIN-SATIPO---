@@ -7,6 +7,8 @@
 
 ### (ORCID: 0000-0001-8718-3150)
 
+## Equipo N° 05
+
 ## INTEGRANTES 
 + Acuña Martel, Andree Fidel (0000-0001-7936-5771)
 + Curay Pari, Jenifer Valeri (0000-0001-7386-0448)
