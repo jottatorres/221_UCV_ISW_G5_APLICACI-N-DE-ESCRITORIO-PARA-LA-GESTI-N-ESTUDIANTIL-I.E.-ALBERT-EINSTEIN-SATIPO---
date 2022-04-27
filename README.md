@@ -119,3 +119,7 @@ web pensada para ello.
 
 ![PLANTILLA](https://i.imgur.com/wOKXe9d.jpg)
 
+####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
+
+![MTZ](https://i.imgur.com/GX1YJNe.png)
+
