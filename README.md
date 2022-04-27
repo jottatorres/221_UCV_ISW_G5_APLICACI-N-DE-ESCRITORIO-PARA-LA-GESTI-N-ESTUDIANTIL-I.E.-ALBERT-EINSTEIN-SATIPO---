@@ -123,3 +123,7 @@ web pensada para ello.
 
 ![MTZ](https://i.imgur.com/GX1YJNe.png)
 
+####     3.1.8.   Modelo Conceptual de Clases.
+
+![MCC](https://i.imgur.com/xOFua25.jpg)
+
