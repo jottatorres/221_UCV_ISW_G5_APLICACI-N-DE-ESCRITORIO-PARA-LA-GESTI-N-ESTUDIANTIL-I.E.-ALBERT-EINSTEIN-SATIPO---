@@ -1,7 +1,7 @@
 ![Logo UCV](https://ucv.blackboard.com/branding/_1_1/loginLogo/CustomLoginLogo.png?m=k9sq4hbz)
 
 
-# APLICACIÓN DE ESCRITORIO PARA LA GESTIÓN ESTUDIANTIL I.E. "ALBERT EINSTEIN" SATIPO - JUNÍN
+# 2022_UCV_IS5_APLICACIÓN DE ESCRITORIO PARA LA GESTIÓN ESTUDIANTIL I.E. "ALBERT EINSTEIN" SATIPO - JUNÍN
 
 ## DOCENTE: Berrocal Navarro Richard Leonardo 
 
