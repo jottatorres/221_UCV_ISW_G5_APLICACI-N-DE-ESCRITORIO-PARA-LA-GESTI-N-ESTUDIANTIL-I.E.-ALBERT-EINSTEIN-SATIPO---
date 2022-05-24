@@ -126,6 +126,11 @@ web pensada para ello.
 
 ![CU4](https://i.imgur.com/ezcJvvA.jpg)
 
+![CU5](https://i.imgur.com/FTRJPD3.png)
+![CU6](https://i.imgur.com/tbf2cjz.png)
+![CU7](https://i.imgur.com/vtsWNqP.png)
+![CU8](https://i.imgur.com/5JIAdW7.png)
+
 ####     3.1.6.   Plantilla de especificación de casos de uso
 
 ![PLANTILLA](https://i.imgur.com/5QZbD2o.jpg)
