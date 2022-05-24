@@ -93,7 +93,12 @@ web pensada para ello.
 
  ####  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
 
-![RF](https://i.imgur.com/l05279q.png)
+![RF1](https://i.imgur.com/l05279q.png)
+![RF2](https://i.imgur.com/M7AYuXV.png)
+![RF3](https://i.imgur.com/7wq5XX6.png)
+![RF4](https://i.imgur.com/r7n0KbZ.png)
+![RF5](https://i.imgur.com/XtebAYD.png)
+![RF6](https://i.imgur.com/c1VWrX1.png)
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
