@@ -97,7 +97,7 @@ web pensada para ello.
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
-![RNF](https://i.imgur.com/FBWCRz6.jpg)
+![RNF](https://i.imgur.com/PDR3WfR.jpg)
 
 ####     3.1.3.   Relación de actores y su descripción, cuadro indicando
 
