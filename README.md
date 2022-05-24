@@ -118,6 +118,8 @@ web pensada para ello.
 ####     3.1.6.   Plantilla de especificación de casos de uso
 
 ![PLANTILLA](https://i.imgur.com/5QZbD2o.jpg)
+![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
+![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 
