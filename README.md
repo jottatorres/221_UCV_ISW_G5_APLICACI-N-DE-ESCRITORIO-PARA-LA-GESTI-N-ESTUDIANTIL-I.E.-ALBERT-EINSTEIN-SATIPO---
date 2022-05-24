@@ -52,8 +52,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    #### 1.6.3. Software 
 
   La aplicación contará con los siguientes requisitos:
-*	MYSQL
-*  Netbeans
+* PHP 7.4 (Laravel 8)
 *	GitHub
 *  Enterprise Architect
 *	Microsoft Word
