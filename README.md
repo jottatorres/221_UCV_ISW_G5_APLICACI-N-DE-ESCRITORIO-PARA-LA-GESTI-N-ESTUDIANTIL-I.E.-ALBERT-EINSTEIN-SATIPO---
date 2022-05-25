@@ -145,3 +145,9 @@ web pensada para ello.
 
 ![MCC](https://i.imgur.com/xOFua25.jpg)
 
+####     3.3.1.2.  Diagramas de Secuencia
+
+![DS1](https://i.imgur.com/TDINirR.png)
+![DS2](https://i.imgur.com/HfeCmEN.png)
+![DS3](https://i.imgur.com/1O6jvy5.png)
+
