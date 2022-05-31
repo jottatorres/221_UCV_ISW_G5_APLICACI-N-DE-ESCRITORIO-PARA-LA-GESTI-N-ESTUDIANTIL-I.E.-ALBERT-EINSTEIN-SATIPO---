@@ -156,4 +156,4 @@ web pensada para ello.
 ####     3.2.3. Lista de Clases de Control
 ![CCO](https://i.imgur.com/tRqPkZT.png)
 ####     3.2.4. Lista de Clases de Entidades
-![CEN](https://i.imgur.com/3u7S3NM.png)
+![CEN](https://i.imgur.com/wgF2qjx.png)
