@@ -145,9 +145,15 @@ web pensada para ello.
 
 ![MCC](https://i.imgur.com/xOFua25.jpg)
 
-####     3.3.1.2.  Diagramas de Secuencia
+####     3.2.1.  Diagramas de Secuencia
 
 ![DS1](https://i.imgur.com/TDINirR.png)
 ![DS2](https://i.imgur.com/HfeCmEN.png)
 ![DS3](https://i.imgur.com/1O6jvy5.png)
 
+####     3.2.2. Lista de Clases de Interfaz
+![CI](https://i.imgur.com/nze6A6c.png)
+####     3.2.3. Lista de Clases de Control
+![CCO](https://i.imgur.com/tRqPkZT.png)
+####     3.2.4. Lista de Clases de Entidades
+![CEN](https://i.imgur.com/3u7S3NM.png)
