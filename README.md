@@ -195,6 +195,13 @@ web pensada para ello.
 
 ![TBLU](https://i.imgur.com/c9GEmhc.png)
 
+![TBLC](https://i.imgur.com/ayP0uZ9.png)
+
+![TBLC](https://i.imgur.com/Jpfokcc.png)
+
+![TBLT](https://i.imgur.com/dpIV88m.png)
+
+
 #### 3.3.2. Estructura Modular del SWOO 
 #### 3.3.2.1. Diseño de Ventanas 
 ###  3.3.2.2. Diseño de Reportes 
