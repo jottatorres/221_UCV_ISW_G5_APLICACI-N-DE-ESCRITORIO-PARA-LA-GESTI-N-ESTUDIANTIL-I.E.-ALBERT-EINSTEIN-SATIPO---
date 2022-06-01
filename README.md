@@ -148,6 +148,12 @@ web pensada para ello.
 
 ####     3.1.3.   Relación de actores y su descripción, cuadro indicando
 
+| ACTOR        | RESPONSABILIDADES |
+|--------------|-------------------|
+|Administrador |Realiza registro de docentes y alumnos|
+|Docente       |Encagado del registro de notas y asignaturas|
+|Alumno        |Visualiza sus notas |
+
 ![ACTORES](https://i.imgur.com/ktPHtoN.jpg)
 
 
