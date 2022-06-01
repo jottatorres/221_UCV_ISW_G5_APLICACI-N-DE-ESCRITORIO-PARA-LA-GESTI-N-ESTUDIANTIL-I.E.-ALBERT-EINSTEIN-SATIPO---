@@ -52,12 +52,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |Analista de Sistemas| -Torres Durán Jhoslin Yener -Tolentino Mallaopoma Luis Alberto -Acuña Martel Andree Fidel | Diseñar el sistema informático que satisfaga las necesidades de la empresa. Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa. Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas. |
 |Programador | Holguín Cueva Pedro Alejandro | -Creación de programas -Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora. |
 
-
-
-
-   ![RecursosHumanos](https://i.imgur.com/sgB02mZ.jpg)
-
-
    #### 1.6.3. Software 
 
   La aplicación contará con los siguientes requisitos:
