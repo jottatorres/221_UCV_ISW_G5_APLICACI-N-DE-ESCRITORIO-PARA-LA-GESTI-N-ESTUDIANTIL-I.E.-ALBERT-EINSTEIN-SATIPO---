@@ -127,7 +127,21 @@ web pensada para ello.
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
-![RNF](https://i.imgur.com/PDR3WfR.jpg)
+| IDENTIFICADOR | RNF1   |
+|---------------|--------|
+|NOMBRE         |Accesibilidad |
+|DESCRIPCION    |El sistema le permitira al administrador poder realizar registros |
+
+| IDENTIFICADOR | RNF2   |
+|---------------|--------|
+|NOMBRE         |Base de datos |
+|DESCRIPCION    |El sistema se debe desarrollar en PHP 7.4 utilizando el Framework del Laravel 8 |
+
+| IDENTIFICADOR | RNF3   |
+|---------------|--------|
+|NOMBRE         |Eficiencia |
+|DESCRIPCION    |Toda funcionalidad del sistema y transaccion de negocio debe responder al usuario |
+
 
 ####     3.1.3.   Relación de actores y su descripción, cuadro indicando
 
