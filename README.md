@@ -189,7 +189,9 @@ web pensada para ello.
 
 #### 3.3.1  Modelo Físico
 
-![ML](https://i.imgur.com/bdWs2Ja.png)
+![MF1](https://i.imgur.com/coMBaBj.png)
+
+![MF2](https://i.imgur.com/7CfEfsG.png)
 
 #### 3.3.1.1. Creación de Esquema y Tablas
 
