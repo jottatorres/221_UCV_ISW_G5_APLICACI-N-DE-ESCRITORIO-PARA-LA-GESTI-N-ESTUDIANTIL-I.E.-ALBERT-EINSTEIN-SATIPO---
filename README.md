@@ -182,3 +182,19 @@ web pensada para ello.
 ![CCO](https://i.imgur.com/tRqPkZT.png)
 ####     3.2.4. Lista de Clases de Entidades
 ![CEN](https://i.imgur.com/wgF2qjx.png)
+
+#### 3.2.5. Modelo Logico de Clases 
+
+#### 3.3. DISEÑO ORIENTADO A OBJETOS .
+
+#### 3.3.1  Modelo Físico
+
+![ML](https://i.imgur.com/bdWs2Ja.png)
+
+#### 3.3.1.1. Creación de Esquema y Tablas
+
+![TBLU](https://i.imgur.com/c9GEmhc.png)
+
+#### 3.3.2. Estructura Modular del SWOO 
+#### 3.3.2.1. Diseño de Ventanas 
+###  3.3.2.2. Diseño de Reportes 
