@@ -48,10 +48,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    
 | CARGO          | NOMBRE                  | FUNCIONES |
 |----------------|-------------------------|-----------|
-|JEFE DE PROYECTO| Curay Pari Jenifer Varia| Generar más negocio en el cliente. |
-|----------------|-------------------------|Fomentar y liderar la educación de las personas del propio equipo del proyecto. |
-|----------------|-------------------------|Garantizar que el proyecto cumple los estándares de calidad esperados. |
-|----------------|-------------------------|Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto. |
+|JEFE DE PROYECTO| Curay Pari Jenifer Varia| -Generar más negocio en el cliente. -Fomentar y liderar la educación de las personas del propio equipo del proyecto. -Garantizar que el proyecto cumple los estándares de calidad esperados. -Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto. |
 
    ![RecursosHumanos](https://i.imgur.com/sgB02mZ.jpg)
 
