@@ -92,6 +92,11 @@ web pensada para ello.
  ###  3.1. Modelo de Requerimientos.
 
  ####  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
+| IDENTIFICADOR | RF1    |
+|---------------|--------|
+| NOMBRE        | Iniciar Sesión   |
+| DESCRIPCION   | El sistema debe permitir la autenticación del DOCENTE o ALUMNO     | 
+| OBSERVACIONES | El colegio entrega los Usuarios y contraseñas a docentes y alumnos | 
 
 ![RF1](https://i.imgur.com/l05279q.png)
 ![RF2](https://i.imgur.com/M7AYuXV.png)
