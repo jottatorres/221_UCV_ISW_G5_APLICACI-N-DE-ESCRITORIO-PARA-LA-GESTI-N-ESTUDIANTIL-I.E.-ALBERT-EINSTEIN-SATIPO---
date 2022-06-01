@@ -98,19 +98,32 @@ web pensada para ello.
 | DESCRIPCION   | El sistema debe permitir la autenticación del DOCENTE o ALUMNO     | 
 | OBSERVACIONES | El colegio entrega los Usuarios y contraseñas a docentes y alumnos | 
 
-![RF1](https://i.imgur.com/l05279q.png)
-![RF2](https://i.imgur.com/M7AYuXV.png)
-![RF3](https://i.imgur.com/7wq5XX6.png)
-![RF4](https://i.imgur.com/r7n0KbZ.png)
-![RF5](https://i.imgur.com/XtebAYD.png)
-![RF6](https://i.imgur.com/c1VWrX1.png)
+| IDENTIFICADOR | RF2    |
+|---------------|--------|
+|NOMBRE         |Registrar información de docentes y alumnos|
+|DESCRIPCION    |El sistema debe permitir el registro de cada docente y alumno|
 
-| Juego             | Compañia    | Clasificacion | Precio (MXN) |
-|-------------------|-------------|---------------|--------------|
-| Animal Crossing   | Nintendo    | E             | 1600         |
-| Persona 5         | Atlus       | T             | 1500         |
-| Final Fantasy VII | Square Enix | T             | 1500         |
-| Fortnite          | Epic Games  | M             | 0            |
+| IDENTIFICADOR | RF3    |
+|---------------|--------|
+|NOMBRE         |Selección de curso|
+|DESCRIPCION    |El DOCENTE podrá seleccionar el curso que dicta y el ALUMNO podrá seleccionar los cursos que tiene|
+| OBSERVACIONES | El colegio asigna el curso que dicta cada profesor y alumno |
+
+| IDENTIFICADOR | RF4    |
+|---------------|--------|
+|NOMBRE         |Registro de notas|
+|DESCRIPCION    |El DOCENTE podrá añadir, editar o eliminar las notas del respectivo curso|
+
+| IDENTIFICADOR | RF5    |
+|---------------|--------|
+|NOMBRE         |Mostrar número de ALUMNOS por curso |
+|DESCRIPCION    |El PROFESOR visualizar la cantidad de estudian y sus datos|
+
+| IDENTIFICADOR | RF6    |
+|---------------|--------|
+|NOMBRE         |Mostrar reporte de notas |
+|DESCRIPCION    |El ALUMNO podrá visualizar sus notas de todos sus cursos|
+
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
