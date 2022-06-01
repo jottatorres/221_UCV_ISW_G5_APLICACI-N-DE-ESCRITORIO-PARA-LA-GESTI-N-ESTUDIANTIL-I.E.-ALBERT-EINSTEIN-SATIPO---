@@ -177,11 +177,23 @@ web pensada para ello.
 ![DS3](https://i.imgur.com/1O6jvy5.png)
 
 ####     3.2.2. Lista de Clases de Interfaz
-![CI](https://i.imgur.com/nze6A6c.png)
+| Nro. | INTERFAZ       | DESCRIPCIÓN |
+|------|----------------|-------------|
+|IT01  |I_Logeo         |Ventana que permite el ingreso de ID y contraseña|
+|IT02  |I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra asignaturas, notas|
+|IT03  |I_Asignatura    |Ventana muestra información de la asignatura como: aula, horario, profesor asignado y número de estudiantes|
+|IT04  |I_Nota          |Ventana que muestra una formulario donde se podrá ingresar o visualizar las notas del estudiante|
 ####     3.2.3. Lista de Clases de Control
-![CCO](https://i.imgur.com/tRqPkZT.png)
+| Nro. | CONTROLES   | DESCRIPCIÓN |
+|------|-------------|-------------|
+|CO01  |C_Logeo      |Se encarga en la validación del ID y contraseña|
+|CO02  |Gestor_datos |Coordina, y actualiza la información del usuario como también sus contraseñas  |
+|CO03  |Gestor_Notas |Crea, modifica, elimina y visualiza las notas del estudiante (depende de los permisos que tenga el usuario)|
 ####     3.2.4. Lista de Clases de Entidades
-![CEN](https://i.imgur.com/wgF2qjx.png)
+| Nro. | ENTIDADES   | DESCRIPCIÓN |
+|------|-------------|-------------|
+|EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
+|EN02  |E_ Asignatura|Información de la asignatura como: nombre, número de estudiantes, notas por estudiante |
 
 #### 3.2.5. Modelo Logico de Clases 
 
