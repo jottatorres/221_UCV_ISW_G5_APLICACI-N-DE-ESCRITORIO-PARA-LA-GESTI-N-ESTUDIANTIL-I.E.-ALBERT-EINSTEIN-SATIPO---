@@ -157,7 +157,11 @@ web pensada para ello.
 
 ####     3.1.4.   Relación de casos de uso, cuadro indicando
 
-![CASOSDEUSO](https://i.imgur.com/wDxFJWX.jpg)
+| Nro. | CASOS DE USO   | DESCRIPCIÓN |
+|------|----------------|-------------|
+|CU01  |Registrar Docentes y alumnos |El administrador realizará los registros de los docentes y alumnos|
+|CU02  |Realizar Reportes |El docente realizará los reportes de notas|
+|CU03  | Creación de los cursos |El administrador realizará las creaciones de los cursos|
 
 ####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
 
