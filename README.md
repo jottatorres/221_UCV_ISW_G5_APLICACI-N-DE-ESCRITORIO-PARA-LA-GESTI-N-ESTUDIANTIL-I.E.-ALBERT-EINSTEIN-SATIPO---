@@ -17,6 +17,7 @@
 + Torres Durán, Jhoslin Yener (0000-0001-6998-136) 100%
 
 # INDICE
+---
 ## 1. ASPECTOS DE LA ORGANIZACIÓN
 
 ### 1.1.  VISIÓN 
