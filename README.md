@@ -154,8 +154,6 @@ web pensada para ello.
 |Docente       |Encagado del registro de notas y asignaturas|
 |Alumno        |Visualiza sus notas |
 
-![ACTORES](https://i.imgur.com/ktPHtoN.jpg)
-
 
 ####     3.1.4.   Relación de casos de uso, cuadro indicando
 
