@@ -49,7 +49,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    
 | CARGO          | NOMBRE                  | FUNCIONES |
 |----------------|-------------------------|-----------|
-|JEFE DE PROYECTO| Curay Pari Jenifer Varia| +Generar más negocio en el cliente. -Fomentar y liderar la educación de las personas del propio equipo del proyecto. +Garantizar que el proyecto cumple los estándares de calidad esperados. +Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto. |
+|JEFE DE PROYECTO| Curay Pari Jenifer Varia| + Generar más negocio en el cliente. + Fomentar y liderar la educación de las personas del propio equipo del proyecto. + Garantizar que el proyecto cumple los estándares de calidad esperados. + Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto. |
 |Analista de Sistemas| -Torres Durán Jhoslin Yener -Tolentino Mallaopoma Luis Alberto -Acuña Martel Andree Fidel | Diseñar el sistema informático que satisfaga las necesidades de la empresa. Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa. Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas. |
 |Programador | Holguín Cueva Pedro Alejandro | -Creación de programas -Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora. |
 
