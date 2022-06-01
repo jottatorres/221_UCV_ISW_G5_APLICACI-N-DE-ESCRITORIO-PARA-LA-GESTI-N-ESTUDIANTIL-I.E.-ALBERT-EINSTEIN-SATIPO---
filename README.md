@@ -1,7 +1,7 @@
 ![Logo UCV](https://ucv.blackboard.com/branding/_1_1/loginLogo/CustomLoginLogo.png?m=k9sq4hbz)
 
 
-# 221_UCV_ISW_G5_APLICACIÓN DE ESCRITORIO PARA LA GESTIÓN ESTUDIANTIL I.E. "ALBERT EINSTEIN" SATIPO - JUNÍN
+# 221_UCV_ISW_G5_APLICACIÓN WEB PARA LA GESTIÓN ESTUDIANTIL I.E. "ALBERT EINSTEIN" SATIPO - JUNÍN
 
 ## DOCENTE: Berrocal Navarro Richard Leonardo 
 
@@ -99,6 +99,13 @@ web pensada para ello.
 ![RF4](https://i.imgur.com/r7n0KbZ.png)
 ![RF5](https://i.imgur.com/XtebAYD.png)
 ![RF6](https://i.imgur.com/c1VWrX1.png)
+
+| Juego             | Compañia    | Clasificacion | Precio (MXN) |
+|-------------------|-------------|---------------|--------------|
+| Animal Crossing   | Nintendo    | E             | 1600         |
+| Persona 5         | Atlus       | T             | 1500         |
+| Final Fantasy VII | Square Enix | T             | 1500         |
+| Fortnite          | Epic Games  | M             | 0            |
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
