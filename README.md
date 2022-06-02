@@ -47,7 +47,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    
 | CARGO          | NOMBRE                  | FUNCIONES |
 |----------------|-------------------------|-----------|
-|JEFE DE PROYECTO|<ul><li>Curay Pari Jenifer Varia|Generar más negocio en el cliente.<br/>Fomentar y liderar la educación de las personas del propio equipo del proyecto.<br/>Garantizar que el proyecto cumple los estándares de calidad esperados.<br/>Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto.|
+|JEFE DE PROYECTO|Curay Pari Jenifer Varia|Generar más negocio en el cliente.<br>Fomentar y liderar la educación de las personas del propio equipo del proyecto.<br>Garantizar que el proyecto cumple los estándares de calidad esperados.<br>Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto.|
 |Analista de Sistemas|<ul><li>Torres Durán Jhoslin Yener<br/> <ul><li>Tolentino Mallaopoma Luis Alberto<br/><ul><li>Acuña Martel Andree Fidel | Diseñar el sistema informático que satisfaga las necesidades de la empresa.<br/>Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa.<br/>Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas. |
 |Programador |<ul><li>Holguín Cueva Pedro Alejandro |Creación de programas.<br/>Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora. |
 
@@ -80,7 +80,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
 |--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Planteamiento del proyecto|<ul><li>- [x]|   |   |   |   |   |   |   |   |   |   |   |   | 
+|Planteamiento del proyecto|  |   |   |   |   |   |   |   |   |   |   |   |   | 
 |Presentación de la propuesta del proyecto al representante del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos de la Organizacion)|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos del negocio)|   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -186,6 +186,11 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> cae1b02 (UPDATES)
+>>>>>>> 4c9b5c4ce817ac261391fb4f605877eb8d44c920
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 |ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
 |---|----------|----|---------|----------|------|
