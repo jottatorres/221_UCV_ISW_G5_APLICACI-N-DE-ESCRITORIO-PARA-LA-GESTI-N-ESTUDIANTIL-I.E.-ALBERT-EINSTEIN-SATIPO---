@@ -172,15 +172,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
-<<<<<<< HEAD
-=======
-
-| Identificación | C.U. 001                |
-| Caso de Uso | Registrar Docente                            |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
->>>>>>> cae1b02 (UPDATES)
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 
 ![MTZ](https://i.imgur.com/GX1YJNe.png)
