@@ -172,6 +172,15 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
+<<<<<<< HEAD
+=======
+
+| Identificación | C.U. 001                |
+| Caso de Uso | Registrar Docente                            |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+>>>>>>> cae1b02 (UPDATES)
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 
 ![MTZ](https://i.imgur.com/GX1YJNe.png)
@@ -205,7 +214,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ####     3.2.4. Lista de Clases de Entidades
 
-| Nro. | ENTIDADES   | DESCRIPCIÓN |
+| Nro. | CU 001 |
 |------|-------------|-------------|
 |EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
 |EN02  |E_ Asignatura|Información de la asignatura como: nombre, número de estudiantes, notas por estudiante |
@@ -222,14 +231,20 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 #### 3.3.1.1. Creación de Esquema y Tablas
 
+![LOGIN](https://i.imgur.com/ctSGdJh.png)
+
 ![TBLU](https://i.imgur.com/c9GEmhc.png)
 
-![TBLC](https://i.imgur.com/ayP0uZ9.png)
+![lISTP](https://i.imgur.com/awosa07.png)
 
-![TBLC](https://i.imgur.com/Jpfokcc.png)
+## Crear Profesores
+![CREP](https://i.imgur.com/slZKsaF.png)
 
-![TBLT](https://i.imgur.com/dpIV88m.png)
 
-#### 3.3.2. Estructura Modular del SWOO 
-#### 3.3.2.1. Diseño de Ventanas 
+## Listar Cursos
+![lISTC](https://i.imgur.com/KoBYFdv.png)
+
+## Crear Cursos
+![CREC](https://i.imgur.com/BgJmuOQ.png)
+
 ###  3.3.2.2. Diseño de Reportes 
