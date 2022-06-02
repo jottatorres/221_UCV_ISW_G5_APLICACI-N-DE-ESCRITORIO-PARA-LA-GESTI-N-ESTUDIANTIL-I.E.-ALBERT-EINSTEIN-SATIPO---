@@ -176,14 +176,20 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
 
 ![CU1](https://i.imgur.com/SuF3WqX.png)
+
 ![CU2](https://i.imgur.com/G5LF9bV.png)
+
 ![CU3](https://i.imgur.com/zw1geiO.png)
+
 ![CU4](https://i.imgur.com/ImdVD2T.png)
+
 
 ####     3.1.6.   Plantilla de especificación de casos de uso
 
 ![PLANTILLA](https://i.imgur.com/5QZbD2o.jpg)
+
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
+
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
@@ -223,7 +229,9 @@ Evaluación de Docentes
 ####     3.2.1.2  Diagramas de Secuencia
 
 ![DS1](https://i.imgur.com/TDINirR.png)
+
 ![DS2](https://i.imgur.com/HfeCmEN.png)
+
 ![DS3](https://i.imgur.com/1O6jvy5.png)
 
 ####     3.2.2. Lista de Clases de Interfaz
@@ -257,11 +265,14 @@ Evaluación de Docentes
 #### 3.3.1  Modelo Físico
 
 ![MF1](https://i.imgur.com/7CfEfsG.png)
+
 ![MF2](https://i.imgur.com/7CfEfsG.png)
 
 #### 3.3.1.1. Creación de Esquema y Tablas
 ![ML1](https://i.imgur.com/hGdXXX7.png)
+
 ![ML2](https://i.imgur.com/ssPSz4s.png)
+
 ![ML3](https://i.imgur.com/LfrvH10.png)
 
 
