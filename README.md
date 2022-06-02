@@ -248,3 +248,5 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![CREC](https://i.imgur.com/BgJmuOQ.png)
 
 ###  3.3.2.2. Diseño de Reportes 
+
+!(REPORTS)(https://i.imgur.com/Dg2Hotd.png)
