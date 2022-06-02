@@ -24,11 +24,11 @@
 
 Ser ente facilitador de las plataformas virtuales, promotor, innovador e instructor en herramientas tecnológicas digitales y pedagógicas bajo la modalidad virtual, contribuyendo y fortaleciendo el proceso educativo y mejorando el nivel profesional en la educación.
 
-### 1.2  MISIÓN
+### 1.2. MISIÓN
 
 Ser referente en innovación y en enseñanza-aprendizaje bajo la modalidad virtual, contribuyendo al fortalecimiento del estudiante.
 
-### 	1.3   OBJETIVOS
+### 	1.3. OBJETIVOS
 
 Facilitar al estudiante una herramienta digital, que ayudara en sus estudios digitales, ante el aislamiento que nos vimos afectados en los últimos años.
 
