@@ -77,14 +77,10 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * Súper VGA con una resolución de 1024 x 768.
  
    #### 1.6.5. Cronograma de Actividades
-<html>
-   <head>
-      <script src="https://kit.fontawesome.com/413a0aeb30.js" crossorigin="anonymous"></script>
-   </head>
    
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
 |--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Planteamiento del proyecto|<i[x]></i>|   |   |   |   |   |   |   |   |   |   |   |   | 
+|Planteamiento del proyecto|[x]|   |   |   |   |   |   |   |   |   |   |   |   | 
 |Presentación de la propuesta del proyecto al representante del proyecto|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos de la Organizacion)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos del negocio)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
