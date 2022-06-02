@@ -217,7 +217,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 Planificación Académica
 ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
 
-Inscripción
+   Inscripción
 ![Inscripción](https://i.imgur.com/dxwm8QA.png)
 
 Evaluación de Docentes
