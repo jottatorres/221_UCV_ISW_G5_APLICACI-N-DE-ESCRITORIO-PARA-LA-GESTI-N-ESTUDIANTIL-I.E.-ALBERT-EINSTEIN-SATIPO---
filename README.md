@@ -238,14 +238,17 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 #### 3.3.1  Modelo Físico
 
 ![MF1](https://i.imgur.com/7CfEfsG.png)
-![MF2](https://i.imgur.com/ayP0uZ9.png)
-![MF3](https://i.imgur.com/7CfEfsG.png)
+![MF2](https://i.imgur.com/7CfEfsG.png)
 
 #### 3.3.1.1. Creación de Esquema y Tablas
+![ML1](https://i.imgur.com/hGdXXX7.png)
+![ML2](https://i.imgur.com/ssPSz4s.png)
+![ML3](https://i.imgur.com/LfrvH10.png)
 
+
+## Login
 ![LOGIN](https://i.imgur.com/ctSGdJh.png)
-
-![TBLU](https://i.imgur.com/c9GEmhc.png)
+## Listar Profesores
 
 ![lISTP](https://i.imgur.com/awosa07.png)
 
@@ -261,4 +264,4 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ###  3.3.2.2. Diseño de Reportes 
 
-!REPORTS](https://i.imgur.com/Dg2Hotd.png)
+![REPORTS](https://i.imgur.com/Dg2Hotd.png)
