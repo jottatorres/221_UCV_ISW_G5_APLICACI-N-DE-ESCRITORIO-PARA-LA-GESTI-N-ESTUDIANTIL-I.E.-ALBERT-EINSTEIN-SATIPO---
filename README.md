@@ -80,7 +80,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
 |--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Planteamiento del proyecto|:red_check_mark:|   |   |   |   |   |   |   |   |   |   |   |   | 
+|Planteamiento del proyecto|- [X] |   |   |   |   |   |   |   |   |   |   |   |   | 
 |Presentación de la propuesta del proyecto al representante del proyecto|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos de la Organizacion)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos del negocio)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
