@@ -180,7 +180,12 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ![MCC](https://i.imgur.com/hJvY3ms.png)
 
-####     3.2.1.  Diagramas de Secuencia
+####     3.2 Análisis Orientado a Objetos.
+   #### 3.2.1. Modelo de Análisis
+
+   #### 3.2.1.1. Diagrama de Análisis de Clases
+
+####     3.2.1.2  Diagramas de Secuencia
 
 ![DS1](https://i.imgur.com/TDINirR.png)
 ![DS2](https://i.imgur.com/HfeCmEN.png)
