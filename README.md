@@ -77,7 +77,21 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * Súper VGA con una resolución de 1024 x 768.
  
    #### 1.6.5. Cronograma de Actividades
-   
+
+|CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
+|--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Planteamiento del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   | 
+|Presentación de la propuesta del proyecto al representante del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Aspectos de la Organizacion)|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Aspectos del negocio)|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Metodologí)|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Presentacion del 1er avance|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Funciones a realizar en la aplicacion web|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Desarrollo de la aplicacion web - I|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Presentacion del 2do avance|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Desarrollo de la aplicacion web - II|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Presentacion final del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   |
+
    ![Cronograma](https://i.imgur.com/P1qRMPK.jpg)
    
   # 2. ASPECTOS DEL NEGOCIO
