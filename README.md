@@ -172,14 +172,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
-<<<<<<< HEAD
-=======
-
-| Identificación | C.U. 001                |
-| Caso de Uso | Registrar Docente                            |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
 >>>>>>> cae1b02 (UPDATES)
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 |ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
@@ -224,7 +216,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ####     3.2.4. Lista de Clases de Entidades
 
-| Nro. | CU 001 |
+| Nro. | CONTROLES   | DESCRIPCIÓN |
 |------|-------------|-------------|
 |EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
 |EN02  |E_ Asignatura|Información de la asignatura como: nombre, número de estudiantes, notas por estudiante |
@@ -235,9 +227,9 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 #### 3.3.1  Modelo Físico
 
-![MF1](https://i.imgur.com/coMBaBj.png)
-
-![MF2](https://i.imgur.com/7CfEfsG.png)
+![MF1](https://i.imgur.com/7CfEfsG.png)
+![MF2](https://i.imgur.com/ayP0uZ9.png)
+![MF3](https://i.imgur.com/7CfEfsG.png)
 
 #### 3.3.1.1. Creación de Esquema y Tablas
 
@@ -259,4 +251,4 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ###  3.3.2.2. Diseño de Reportes 
 
-![REPORTS](https://i.imgur.com/Dg2Hotd.png)
+!REPORTS](https://i.imgur.com/Dg2Hotd.png)
