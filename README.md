@@ -178,7 +178,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ####     3.1.8.   Modelo Conceptual de Clases.
 
-![MCC](https://i.imgur.com/xOFua25.jpg)
+![MCC](https://i.imgur.com/hJvY3ms.png)
 
 ####     3.2.1.  Diagramas de Secuencia
 
