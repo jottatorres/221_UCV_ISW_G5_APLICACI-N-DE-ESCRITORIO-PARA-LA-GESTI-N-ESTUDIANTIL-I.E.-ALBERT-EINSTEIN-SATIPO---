@@ -186,11 +186,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> cae1b02 (UPDATES)
->>>>>>> 4c9b5c4ce817ac261391fb4f605877eb8d44c920
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 |ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
 |---|----------|----|---------|----------|------|
