@@ -47,24 +47,24 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    
 | CARGO          | NOMBRE                  | FUNCIONES |
 |----------------|-------------------------|-----------|
-|JEFE DE PROYECTO| Curay Pari Jenifer Varia| -Generar más negocio en el cliente. Fomentar y liderar la educación de las personas del propio equipo del proyecto. -Garantizar que el proyecto cumple los estándares de calidad esperados. -Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto. |
-|Analista de Sistemas| -Torres Durán Jhoslin Yener -Tolentino Mallaopoma Luis Alberto -Acuña Martel Andree Fidel | Diseñar el sistema informático que satisfaga las necesidades de la empresa. Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa. Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas. |
-|Programador | Holguín Cueva Pedro Alejandro | -Creación de programas -Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora. |
+|JEFE DE PROYECTO|Curay Pari Jenifer Varia|Generar más negocio en el cliente.<br>Fomentar y liderar la educación de las personas del propio equipo del proyecto.<br>Garantizar que el proyecto cumple los estándares de calidad esperados.<br>Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto.|
+|Analista de Sistemas|<ul><li>Torres Durán Jhoslin Yener<br/> <ul><li>Tolentino Mallaopoma Luis Alberto<br/><ul><li>Acuña Martel Andree Fidel | Diseñar el sistema informático que satisfaga las necesidades de la empresa.<br/>Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa.<br/>Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas. |
+|Programador |<ul><li>Holguín Cueva Pedro Alejandro |Creación de programas.<br/>Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora. |
 
    #### 1.6.3. Software 
 
   La aplicación contará con los siguientes requisitos:
 * PHP 7.4 (Laravel 8)
-* Visual Studio Code 
-* Mysql 14
-* HTML 5 
-* CSS 3
-* Livewire 
-* Javascript
-* GitHub
-* Enterprise Architect
-* Microsoft Word
-* Microsoft Excel
+* Visual Studio Code v1.67.2
+* Mysql v14
+* HTML5 
+* CSS3
+* Livewire v2.0
+* Javascript vES2022
+* Git/GitHub v2.36.1
+* Enterprise Architect v14
+* Microsoft Word 2019
+* Microsoft Excel 2019
 * Sistema Operativo multiplataforma bajo Windows, Linux y Mac OSX
 * Navegador web (Opera, Firefox, Chrome)
 
@@ -77,7 +77,21 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * Súper VGA con una resolución de 1024 x 768.
  
    #### 1.6.5. Cronograma de Actividades
-   
+
+|CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
+|--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Planteamiento del proyecto|  |   |   |   |   |   |   |   |   |   |   |   |   | 
+|Presentación de la propuesta del proyecto al representante del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Aspectos de la Organizacion)|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Aspectos del negocio)|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Metodologí)|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Presentacion del 1er avance|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Funciones a realizar en la aplicacion web|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Desarrollo de la aplicacion web - I|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Presentacion del 2do avance|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Desarrollo de la aplicacion web - II|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Presentacion final del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   |
+
    ![Cronograma](https://i.imgur.com/P1qRMPK.jpg)
    
   # 2. ASPECTOS DEL NEGOCIO
@@ -241,14 +255,17 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 #### 3.3.1  Modelo Físico
 
 ![MF1](https://i.imgur.com/7CfEfsG.png)
-![MF2](https://i.imgur.com/ayP0uZ9.png)
-![MF3](https://i.imgur.com/7CfEfsG.png)
+![MF2](https://i.imgur.com/7CfEfsG.png)
 
 #### 3.3.1.1. Creación de Esquema y Tablas
+![ML1](https://i.imgur.com/hGdXXX7.png)
+![ML2](https://i.imgur.com/ssPSz4s.png)
+![ML3](https://i.imgur.com/LfrvH10.png)
 
+
+## Login
 ![LOGIN](https://i.imgur.com/ctSGdJh.png)
-
-![TBLU](https://i.imgur.com/c9GEmhc.png)
+## Listar Profesores
 
 ![lISTP](https://i.imgur.com/awosa07.png)
 
@@ -264,4 +281,4 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ###  3.3.2.2. Diseño de Reportes 
 
-!REPORTS](https://i.imgur.com/Dg2Hotd.png)
+![REPORTS](https://i.imgur.com/Dg2Hotd.png)
