@@ -21,23 +21,18 @@
 ## 1. ASPECTOS DE LA ORGANIZACIÓN
 
 ### 1.1.  VISIÓN 
-| IDENTIFICACION | CU | 
-|------|--------|
-|CU01  |
-|----|
-
 
 Ser ente facilitador de las plataformas virtuales, promotor, innovador e instructor en herramientas tecnológicas digitales y pedagógicas bajo la modalidad virtual, contribuyendo y fortaleciendo el proceso educativo y mejorando el nivel profesional en la educación.
+
 ### 1.2  MISIÓN
 
-
 Ser referente en innovación y en enseñanza-aprendizaje bajo la modalidad virtual, contribuyendo al fortalecimiento del estudiante.
+
 ### 	1.3   OBJETIVOS
 
-
 Facilitar al estudiante una herramienta digital, que ayudara en sus estudios digitales, ante el aislamiento que nos vimos afectados en los últimos años.
-### 	1.4   ANTECEDENTES
 
+### 	1.4   ANTECEDENTES
 
 En la actualidad la educación virtual ha dado un cambio radical en los individuos, facilitando todas las actividades de auto-aprendizaje pues con esta nueva modalidad el alumno es dueño de su tiempo, de su horario y de su lugar de estudio y todo esto con solo una conexión a internet.
 ### 	1.5   ORGANIGRAMA 
@@ -67,13 +62,12 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 * CSS 3
 * Livewire 
 * Javascript
-*	GitHub
-*  Enterprise Architect
-*	Microsoft Word
-*	Microsoft Excel
+* GitHub
+* Enterprise Architect
+* Microsoft Word
+* Microsoft Excel
 * Sistema Operativo multiplataforma bajo Windows, Linux y Mac OSX
 * Navegador web (Opera, Firefox, Chrome)
-
 
    #### 1.6.4. Hardware 
 
@@ -82,24 +76,22 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * Procesador de x86 o x64 bits de doble núcleo de 1,9 gigahercios (GHz) o más con el conjunto de instrucciones SSE2.
   * 2 GB de RAM.
   * Súper VGA con una resolución de 1024 x 768.
-   #### 1.6.5. Cronograma de Actividades 
+ 
+   #### 1.6.5. Cronograma de Actividades
+   
    ![Cronograma](https://i.imgur.com/P1qRMPK.jpg)
-  # 2.	ASPECTOS DEL NEGOCIO
+   
+  # 2. ASPECTOS DEL NEGOCIO
+  
+  ### 2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+  En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y entre ellos el sector estudiantil se vio obligado a continuar sus labores dentro de casa haciendo uso de las Tecnologías de la información para ello se busca implementar un sistema informático en el cual profesores, docentes alumnos y padres de familia puedan tener un control y registro de sus labores diarias dentro de la institución y poder sistematizar todos los procesos en una aplicación  web pensada para ello.
 
-###	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
-
-
-En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y entre ellos el sector estudiantil
-se vio obligado a continuar sus labores dentro de casa haciendo uso de las Tecnologías de la información para ello
-se busca implementar un sistema informático en el cual profesores, docentes alumnos y padres de familia puedan tener
-un control y registro de sus labores diarias dentro de la institución y poder sistematizar todos los procesos en una aplicación 
-web pensada para ello.
-
-   # 3.	METODOLOGÍA
+  # 3. METODOLOGÍA
 
  ###  3.1. Modelo de Requerimientos.
 
  ####  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
+ 
 | IDENTIFICADOR | RF1    |
 |---------------|--------|
 | NOMBRE        | Iniciar Sesión   |
@@ -207,19 +199,24 @@ web pensada para ello.
 ![DS3](https://i.imgur.com/1O6jvy5.png)
 
 ####     3.2.2. Lista de Clases de Interfaz
+
 | Nro. | INTERFAZ       | DESCRIPCIÓN |
 |------|----------------|-------------|
 |IT01  |I_Logeo         |Ventana que permite el ingreso de ID y contraseña|
 |IT02  |I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra asignaturas, notas|
 |IT03  |I_Asignatura    |Ventana muestra información de la asignatura como: aula, horario, profesor asignado y número de estudiantes|
 |IT04  |I_Nota          |Ventana que muestra una formulario donde se podrá ingresar o visualizar las notas del estudiante|
+
 ####     3.2.3. Lista de Clases de Control
+
 | Nro. | CONTROLES   | DESCRIPCIÓN |
 |------|-------------|-------------|
 |CO01  |C_Logeo      |Se encarga en la validación del ID y contraseña|
 |CO02  |Gestor_datos |Coordina, y actualiza la información del usuario como también sus contraseñas  |
 |CO03  |Gestor_Notas |Crea, modifica, elimina y visualiza las notas del estudiante (depende de los permisos que tenga el usuario)|
+
 ####     3.2.4. Lista de Clases de Entidades
+
 | Nro. | ENTIDADES   | DESCRIPCIÓN |
 |------|-------------|-------------|
 |EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
@@ -244,7 +241,6 @@ web pensada para ello.
 ![TBLC](https://i.imgur.com/Jpfokcc.png)
 
 ![TBLT](https://i.imgur.com/dpIV88m.png)
-
 
 #### 3.3.2. Estructura Modular del SWOO 
 #### 3.3.2.1. Diseño de Ventanas 
