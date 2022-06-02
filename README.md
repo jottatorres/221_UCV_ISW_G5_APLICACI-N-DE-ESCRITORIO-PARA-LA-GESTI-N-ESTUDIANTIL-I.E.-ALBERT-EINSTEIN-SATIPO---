@@ -55,16 +55,16 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
   La aplicación contará con los siguientes requisitos:
 * PHP 7.4 (Laravel 8)
-* Visual Studio Code 
-* Mysql 14
-* HTML 5 
-* CSS 3
-* Livewire 
-* Javascript
-* GitHub
-* Enterprise Architect
-* Microsoft Word
-* Microsoft Excel
+* Visual Studio Code v1.67.2
+* Mysql v14
+* HTML5 
+* CSS3
+* Livewire v2.0
+* Javascript vES2022
+* Git/GitHub v2.36.1
+* Enterprise Architect v14
+* Microsoft Word 2019
+* Microsoft Excel 2019
 * Sistema Operativo multiplataforma bajo Windows, Linux y Mac OSX
 * Navegador web (Opera, Firefox, Chrome)
 
