@@ -177,7 +177,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
 |---|----------|----|---------|----------|------|
 |R1 |El sistema debe permitir el registro de cada docente y alumno. |Gestion de proyecto|Medio|GDP|Cumplimiento del 100% de la especificacion.|
-|R2 |El sistema ingresara las notas de los alumnos.|Gestion de proyecto|Alto|GDP,Alumno|Listado de notas de los alumnos de la institucion.|
+|R2 |El sistema ingresara las notas de los alumnos.|Gestion de proyecto|Alto|GDP,Administrador|Listado de notas de los alumnos de la institucion.|
 |R3 |El sistema debe permitir ingresar datos para la creacion de los cursos.|Gestion de proyecto|Alto|GDP,Administrador|Cumplimiento del 100% de la especificacion.|
 |R4 |El sistema debe permitir al administrador poder realizar registros.|Gestion de proyecto|Medio|GDP,Administrador|Lista de registro administrativo.|
 |R5 |El sistema se debe desarrollar en SQL Server 2019.|Producto|Alto|GDP|Cumplimiento del 100% de la especificacion.|
