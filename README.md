@@ -185,8 +185,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |R7 |Registrar docentes y alumnos.|GDP|Alto|GDP, Administrador|Debe cumplir con el objetivo especificado.|
 |R8 |Realizar reportes.|GDP|Alto|GDP, Administrador|Cumplimiento de reportes.|
 
-![MTZ](https://i.imgur.com/GX1YJNe.png)
-
 ####     3.1.8.   Modelo Conceptual de Clases.
 
 ![MCC](https://i.imgur.com/hJvY3ms.png)
