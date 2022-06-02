@@ -10,7 +10,7 @@
 ## Equipo N° 05
 
 ## INTEGRANTES 
-+ Acuña Martel, Andree Fidel (0000-0001-7936-5771) 70%
++ Acuña Martel, Andree Fidel (0000-0001-7936-5771) 100%
 + Curay Pari, Jenifer Valeri (0000-0001-7386-0448) 100%
 + Holguín Cueva, Pedro Alejandro (0000-0001-6641-6752) 100%
 + Tolentino Mallaopoma, Luis Alberto (0000-0003-1234-9667) 70%
@@ -80,20 +80,18 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
 |--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Planteamiento del proyecto|[X] |   |   |   |   |   |   |   |   |   |   |   |   | 
-|Presentación de la propuesta del proyecto al representante del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Informe (Aspectos de la Organizacion)|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Informe (Aspectos del negocio)|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Informe (Metodologí)|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Presentacion del 1er avance|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Funciones a realizar en la aplicacion web|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Desarrollo de la aplicacion web - I|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Presentacion del 2do avance|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Desarrollo de la aplicacion web - II|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|Presentacion final del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Planteamiento del proyecto|[X]|   |   |   |   |   |   |   |   |   |   |   |   | 
+|Presentación de la propuesta del proyecto al representante del proyecto|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Aspectos de la Organizacion)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Aspectos del negocio)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Metodologí)|   |   |[X]|   |   |   |   |   |   |   |   |   |   |
+|Presentacion del 1er avance|   |   |   |[X]|   |   |   |   |   |   |   |   |   |
+|Funciones a realizar en la aplicacion web|   |   |   |[X]|[X]|   |   |   |   |   |   |   |   |
+|Desarrollo de la aplicacion web - I|   |   |   |   |   |[X]|[X]|[X]|   |   |   |   |   |
+|Presentacion del 2do avance|   |   |   |   |   |   |   |   |[X]|   |   |   |   |
+|Desarrollo de la aplicacion web - II|   |   |   |   |   |   |   |   |   |[X]|[X]|[X]|   |
+|Presentacion final del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |[X]|
 
-   ![Cronograma](https://i.imgur.com/P1qRMPK.jpg)
-   
   # 2. ASPECTOS DEL NEGOCIO
   
   ### 2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
