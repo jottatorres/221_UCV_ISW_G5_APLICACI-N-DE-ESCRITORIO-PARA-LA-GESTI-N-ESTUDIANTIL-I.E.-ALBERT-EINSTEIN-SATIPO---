@@ -3,9 +3,9 @@
 
 # 221_UCV_ISW_G5_APLICACIÓN WEB PARA LA GESTIÓN ESTUDIANTIL I.E. "ALBERT EINSTEIN" SATIPO - JUNÍN
 
-## DOCENTE: Berrocal Navarro Richard Leonardo 
+# DOCENTE: Berrocal Navarro Richard Leonardo 
 
-### (ORCID: 0000-0001-8718-3150)
+## (ORCID: 0000-0001-8718-3150)
 
 ## Equipo N° 05
 
@@ -16,7 +16,6 @@
 + Tolentino Mallaopoma, Luis Alberto (0000-0003-1234-9667) 70%
 + Torres Durán, Jhoslin Yener (0000-0001-6998-136) 100%
 
-# INDICE
 ---
 ## 1. ASPECTOS DE LA ORGANIZACIÓN
 
@@ -172,12 +171,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![PLANTILLA](https://i.imgur.com/5QZbD2o.jpg)
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
-
-
-| Syntax      | Description                 |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
 
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 
