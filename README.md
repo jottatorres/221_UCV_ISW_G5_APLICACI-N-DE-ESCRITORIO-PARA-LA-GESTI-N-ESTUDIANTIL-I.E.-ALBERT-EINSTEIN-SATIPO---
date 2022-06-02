@@ -196,6 +196,8 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ###     3.2 Análisis Orientado a Objetos.
    #### 3.2.1. Modelo de Análisis 
+![Modelo de Análisis](https://i.imgur.com/LcaZaCG.png)
+
    #### 3.3.1.1. Diagrama de Análisis de Clases 
 
 
