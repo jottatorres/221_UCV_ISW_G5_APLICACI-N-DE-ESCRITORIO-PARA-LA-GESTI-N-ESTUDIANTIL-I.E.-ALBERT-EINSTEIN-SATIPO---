@@ -162,21 +162,10 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
 
-![CU1](https://i.imgur.com/4850Ksl.jpg)
-
-
-![CU2](https://i.imgur.com/jR4iTeT.jpg)
-
-
-![CU3](https://i.imgur.com/8IZdybW.jpg)
-
-
-![CU4](https://i.imgur.com/ezcJvvA.jpg)
-
-![CU5](https://i.imgur.com/FTRJPD3.png)
-![CU6](https://i.imgur.com/tbf2cjz.png)
-![CU7](https://i.imgur.com/vtsWNqP.png)
-![CU8](https://i.imgur.com/5JIAdW7.png)
+![CU1](https://i.imgur.com/SuF3WqX.png)
+![CU2](https://i.imgur.com/G5LF9bV.png)
+![CU3](https://i.imgur.com/zw1geiO.png)
+![CU4](https://i.imgur.com/ImdVD2T.png)
 
 ####     3.1.6.   Plantilla de especificación de casos de uso
 
