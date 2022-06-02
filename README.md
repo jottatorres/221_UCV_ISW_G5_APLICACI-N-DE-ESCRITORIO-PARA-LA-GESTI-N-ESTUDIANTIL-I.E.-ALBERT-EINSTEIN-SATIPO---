@@ -182,6 +182,16 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 >>>>>>> cae1b02 (UPDATES)
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
+|ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
+|---|----------|----|---------|----------|------|
+|R1 |El sistema debe permitir el registro de cada docente y alumno. |Gestion de proyecto|Medio|GDP|Cumplimiento del 100% de la especificacion.|
+|R2 |El sistema ingresara las notas de los alumnos.|Gestion de proyecto|Alto|GDP,Alumno|Listado de notas de los alumnos de la institucion.|
+|R3 |El sistema debe permitir ingresar datos para la creacion de los cursos.|Gestion de proyecto|Alto|GDP,Alumno|Cumplimiento del 100% de la especificacion.|
+|R4 |El sistema debe permitir al administrador poder realizar registros.|Gestion de proyecto|Medio|GDP,Administrador|Lista de registro administrativo.|
+|R5 |El sistema se debe desarrollar en SQL Server 2019.|Producto|Alto|GDP|Cumplimiento del 100% de la especificacion.|
+|R6 |Toda funcionalidad del sistema y transaccion de datos debe responder al usuario.|Producto|Alto|GDP, Usuario|Cumplimiento del 100% de la especificacion.|
+|R7 |Registrar docentes y alumnos.|GDP|Alto|GDP, Administrador|Debe cumplir con el objetivo especificado.|
+|R8 |Realizar reportes.|GDP|Alto|GDP, Administrador|Cumplimiento de reportes.|
 
 ![MTZ](https://i.imgur.com/GX1YJNe.png)
 
