@@ -214,10 +214,13 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
    #### 3.3.1.1. Diagrama de Análisis de Clases 
 
+Planificación Académica
 ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
 
+Inscripción
 ![Inscripción](https://i.imgur.com/dxwm8QA.png)
 
+Evaluación de Docentes
 ![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
 
 
