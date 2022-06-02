@@ -80,7 +80,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
 |--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Planteamiento del proyecto|<ul><li>- [x] x |   |   |   |   |   |   |   |   |   |   |   |   | 
+|Planteamiento del proyecto|[x]|   |   |   |   |   |   |   |   |   |   |   |   | 
 |Presentación de la propuesta del proyecto al representante del proyecto|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos de la Organizacion)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos del negocio)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
@@ -184,11 +184,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> cae1b02 (UPDATES)
->>>>>>> 4c9b5c4ce817ac261391fb4f605877eb8d44c920
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 |ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
 |---|----------|----|---------|----------|------|
