@@ -211,7 +211,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |EN02  |E_ Asignatura|Información de la asignatura como: nombre, número de estudiantes, notas por estudiante |
 
 #### 3.2.5. Modelo Logico de Clases 
-
+![Modelo Logico de Clases](https://i.imgur.com/bg0cCAL.png)
 #### 3.3. DISEÑO ORIENTADO A OBJETOS .
 
 #### 3.3.1  Modelo Físico
