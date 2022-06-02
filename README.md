@@ -10,10 +10,10 @@
 ## Equipo N° 05
 
 ## INTEGRANTES 
-+ Acuña Martel, Andree Fidel (0000-0001-7936-5771) 100%
++ Acuña Martel, Andree Fidel (0000-0001-7936-5771) 70%
 + Curay Pari, Jenifer Valeri (0000-0001-7386-0448) 100%
 + Holguín Cueva, Pedro Alejandro (0000-0001-6641-6752) 100%
-+ Tolentino Mallaopoma, Luis Alberto (0000-0003-1234-9667) 100%
++ Tolentino Mallaopoma, Luis Alberto (0000-0003-1234-9667) 70%
 + Torres Durán, Jhoslin Yener (0000-0001-6998-136) 100%
 
 ---
@@ -47,9 +47,9 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    
 | CARGO          | NOMBRE                  | FUNCIONES |
 |----------------|-------------------------|-----------|
-|JEFE DE PROYECTO|Curay Pari Jenifer Varia|Generar más negocio en el cliente.<br>Fomentar y liderar la educación de las personas del propio equipo del proyecto.<br>Garantizar que el proyecto cumple los estándares de calidad esperados.<br>Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto.|
-|Analista de Sistemas|<p><ul><li>Torres Durán Jhoslin Yener<br><p> <ul><li>Tolentino Mallaopoma Luis Alberto<br><p>Acuña Martel Andree Fidel</p> | Diseñar el sistema informático que satisfaga las necesidades de la empresa.<br/>Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa.<br/>Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas. |
-|Programador |<ul><li>Holguín Cueva Pedro Alejandro |Creación de programas.<br/>Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora. |
+|JEFE DE PROYECTO|Curay Pari Jenifer Varia|<p>Generar más negocio en el cliente.<br> <p>Fomentar y liderar la educación de las personas del propio equipo del proyecto.<br> <p>Garantizar que el proyecto cumple los estándares de calidad esperados.<br> <p>Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto.</p>|
+|Analista de Sistemas|<p>Torres Durán Jhoslin Yener<br> <p>Tolentino Mallaopoma Luis Alberto<br> <p>Acuña Martel Andree Fidel</p> |<p>Diseñar el sistema informático que satisfaga las necesidades de la empresa.<br> <p>Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa.<br> <p>Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas.</p>|
+|Programador |Holguín Cueva Pedro Alejandro |<p>Creación de programas.<br> <p>Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora.</p>|
 
    #### 1.6.3. Software 
 
@@ -80,7 +80,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
 |--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Planteamiento del proyecto|  |   |   |   |   |   |   |   |   |   |   |   |   | 
+|Planteamiento del proyecto|[X] |   |   |   |   |   |   |   |   |   |   |   |   | 
 |Presentación de la propuesta del proyecto al representante del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos de la Organizacion)|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos del negocio)|   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -176,22 +176,21 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
 
 ![CU1](https://i.imgur.com/SuF3WqX.png)
-
 ![CU2](https://i.imgur.com/G5LF9bV.png)
-
 ![CU3](https://i.imgur.com/zw1geiO.png)
-
 ![CU4](https://i.imgur.com/ImdVD2T.png)
-
 
 ####     3.1.6.   Plantilla de especificación de casos de uso
 
 ![PLANTILLA](https://i.imgur.com/5QZbD2o.jpg)
-
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
-
 ![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> cae1b02 (UPDATES)
+>>>>>>> 4c9b5c4ce817ac261391fb4f605877eb8d44c920
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 |ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
 |---|----------|----|---------|----------|------|
@@ -214,24 +213,15 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![Modelo de Análisis](https://i.imgur.com/LcaZaCG.png)
 
    #### 3.3.1.1. Diagrama de Análisis de Clases 
-
-Planificación Académica
 ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
-
-Inscripción
-
 ![Inscripción](https://i.imgur.com/dxwm8QA.png)
-
-Evaluación de Docentes
 ![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
 
 
 ####     3.2.1.2  Diagramas de Secuencia
 
 ![DS1](https://i.imgur.com/TDINirR.png)
-
 ![DS2](https://i.imgur.com/HfeCmEN.png)
-
 ![DS3](https://i.imgur.com/1O6jvy5.png)
 
 ####     3.2.2. Lista de Clases de Interfaz
@@ -265,14 +255,11 @@ Evaluación de Docentes
 #### 3.3.1  Modelo Físico
 
 ![MF1](https://i.imgur.com/7CfEfsG.png)
-
 ![MF2](https://i.imgur.com/7CfEfsG.png)
 
 #### 3.3.1.1. Creación de Esquema y Tablas
 ![ML1](https://i.imgur.com/hGdXXX7.png)
-
 ![ML2](https://i.imgur.com/ssPSz4s.png)
-
 ![ML3](https://i.imgur.com/LfrvH10.png)
 
 
