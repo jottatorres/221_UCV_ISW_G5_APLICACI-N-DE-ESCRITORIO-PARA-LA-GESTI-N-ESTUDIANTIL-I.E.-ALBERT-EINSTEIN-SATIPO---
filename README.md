@@ -81,16 +81,16 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
 |--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Planteamiento del proyecto|:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |   | 
-|Presentación de la propuesta del proyecto al representante del proyecto|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
-|Informe (Aspectos de la Organizacion)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
-|Informe (Aspectos del negocio)|   |[X]|   |   |   |   |   |   |   |   |   |   |   |
-|Informe (Metodologí)|   |   |[X]|   |   |   |   |   |   |   |   |   |   |
-|Presentacion del 1er avance|   |   |   |[X]|   |   |   |   |   |   |   |   |   |
-|Funciones a realizar en la aplicacion web|   |   |   |[X]|[X]|   |   |   |   |   |   |   |   |
-|Desarrollo de la aplicacion web - I|   |   |   |   |   |[X]|[X]|[X]|   |   |   |   |   |
-|Presentacion del 2do avance|   |   |   |   |   |   |   |   |[X]|   |   |   |   |
-|Desarrollo de la aplicacion web - II|   |   |   |   |   |   |   |   |   |[X]|[X]|[X]|   |
-|Presentacion final del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |[X]|
+|Presentación de la propuesta del proyecto al representante del proyecto|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Aspectos de la Organizacion)|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Aspectos del negocio)|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
+|Informe (Metodologí)|   |   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |
+|Presentacion del 1er avance|   |   |   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |
+|Funciones a realizar en la aplicacion web|   |   |   |:heavy_check_mark:|:heavy_check_mark:|   |   |   |   |   |   |   |   |
+|Desarrollo de la aplicacion web - I|   |   |   |   |   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|   |   |   |   |   |
+|Presentacion del 2do avance|   |   |   |   |   |   |   |   |:heavy_check_mark:|   |   |   |   |
+|Desarrollo de la aplicacion web - II|   |   |   |   |   |   |   |   |   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|   |
+|Presentacion final del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |:heavy_check_mark:|
 
   # 2. ASPECTOS DEL NEGOCIO
   
