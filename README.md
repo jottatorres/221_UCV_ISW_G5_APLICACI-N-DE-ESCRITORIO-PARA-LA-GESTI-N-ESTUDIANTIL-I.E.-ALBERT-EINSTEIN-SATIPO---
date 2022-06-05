@@ -66,7 +66,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 *	Microsoft Word
 *	Microsoft Excel
 * Visual Studio Code v1.67.2
-* Mysql v14
+* Mysql v5.7
 * HTML5 
 * CSS3
 * Livewire v2.0
