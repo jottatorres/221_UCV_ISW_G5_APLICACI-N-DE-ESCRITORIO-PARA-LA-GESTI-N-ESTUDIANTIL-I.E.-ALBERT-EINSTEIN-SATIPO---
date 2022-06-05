@@ -55,7 +55,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
   La aplicación contará con los siguientes requisitos:
 * PHP 7.4 (Laravel 8)
-<<<<<<< HEAD
 * Visual Studio Code 
 * Mysql 5.7
 * HTML 5 
@@ -66,7 +65,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 *  Enterprise Architect
 *	Microsoft Word
 *	Microsoft Excel
-=======
 * Visual Studio Code v1.67.2
 * Mysql v14
 * HTML5 
@@ -77,7 +75,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 * Enterprise Architect v14
 * Microsoft Word 2019
 * Microsoft Excel 2019
->>>>>>> 6b53c3f23901645b7d302fcb9253a184ea446f0e
 * Sistema Operativo multiplataforma bajo Windows, Linux y Mac OSX
 * Navegador web (Opera, Firefox, Chrome)
 
