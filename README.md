@@ -55,7 +55,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 * PHP 7.4 (Laravel 8)
 * Visual Studio Code 
 * 
-* Mysql 14
+* Mysql 5.7
 * HTML 5 
 * CSS 3
 * Livewire 
