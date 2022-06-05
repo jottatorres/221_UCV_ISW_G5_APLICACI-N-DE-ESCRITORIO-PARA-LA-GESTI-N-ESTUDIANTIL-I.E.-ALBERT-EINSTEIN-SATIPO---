@@ -237,11 +237,14 @@ return [
         ],
 
         // Sidebar items:
-        ['header' => 'AMINISTRACIÓN'],
+        ['header' => 'AMINISTRACIÓN',
+         'can' => 'admin.home'
+        ],
         [
             'text' => 'Dashboard',
             'route'  => 'admin',
             'icon' => 'fas fa-fw fa-tachometer-alt',
+            'can' => 'admin.home'
         ],
 
         [
@@ -252,6 +255,7 @@ return [
                     'text' => 'Usuarios',
                     'route'  => 'users.index',
                     'icon' => 'fas fa-fw fa-users',
+                    'can' => 'admin.users.index'
                 ],
                 [
                     'text' => 'Cursos',
