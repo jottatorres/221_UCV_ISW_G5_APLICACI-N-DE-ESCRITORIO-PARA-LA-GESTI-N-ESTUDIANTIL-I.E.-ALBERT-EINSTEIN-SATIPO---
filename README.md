@@ -231,8 +231,8 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 | Nro. | INTERFAZ       | DESCRIPCIÓN |
 |------|----------------|-------------|
 |IT01  |I_Logeo         |Ventana que permite el ingreso de ID y contraseña|
-|IT02  |I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra asignaturas, notas|
-|IT03  |I_Asignatura    |Ventana muestra información de la asignatura como: aula, horario, profesor asignado y número de estudiantes|
+|IT02  |I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra curso, notas|
+|IT03  |I_Curso   |Ventana muestra información de la curso como: aula, horario, docente asignado y número de estudiantes|
 |IT04  |I_Nota          |Ventana que muestra una formulario donde se podrá ingresar o visualizar las notas del estudiante|
 
 ####     3.2.3. Lista de Clases de Control
@@ -248,7 +248,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 | Nro. | CONTROLES   | DESCRIPCIÓN |
 |------|-------------|-------------|
 |EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
-|EN02  |E_ Asignatura|Información de la asignatura como: nombre, número de estudiantes, notas por estudiante |
+|EN02  |E_Curso|Información de la curso como: nombre, número de estudiantes, notas por estudiante |
 
 #### 3.2.5. Modelo Logico de Clases 
 ![Modelo Logico de Clases](https://i.imgur.com/bg0cCAL.png)
