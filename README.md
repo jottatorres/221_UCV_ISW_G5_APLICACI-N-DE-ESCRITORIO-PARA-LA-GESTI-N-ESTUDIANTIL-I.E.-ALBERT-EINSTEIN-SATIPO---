@@ -208,8 +208,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ####     3.1.8.   Modelo Conceptual de Clases.
 
-![MCC](https://i.imgur.com/hJvY3ms.png)
-
+![MCC](https://i.imgur.com/qtoEc9A.png)
 
 ###     3.2 Análisis Orientado a Objetos.
    #### 3.2.1. Modelo de Análisis 
