@@ -128,7 +128,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |---------------|--------|
 |NOMBRE         |Selección de curso|
 |DESCRIPCION    |El DOCENTE podrá seleccionar el curso que dicta y el ALUMNO podrá seleccionar los cursos que tiene|
-| OBSERVACIONES | El colegio asigna el curso que dicta cada profesor y alumno |
+| OBSERVACIONES | El colegio asigna el curso que dicta cada docente y alumno |
 
 | IDENTIFICADOR | RF4    |
 |---------------|--------|
@@ -138,7 +138,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 | IDENTIFICADOR | RF5    |
 |---------------|--------|
 |NOMBRE         |Mostrar número de ALUMNOS por curso |
-|DESCRIPCION    |El PROFESOR visualizar la cantidad de estudian y sus datos|
+|DESCRIPCION    |El DOCENTE visualizar la cantidad de estudian y sus datos|
 
 | IDENTIFICADOR | RF6    |
 |---------------|--------|
@@ -169,7 +169,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 | ACTOR        | RESPONSABILIDADES |
 |--------------|-------------------|
 |Administrador |Realiza registro de docentes y alumnos|
-|Docente       |Encagado del registro de notas y asignaturas|
+|Docente       |Encagado del registro de notas y cursos|
 |Alumno        |Visualiza sus notas |
 
 
