@@ -245,7 +245,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ####     3.2.4. Lista de Clases de Entidades
 
-| Nro. | CONTROLES   | DESCRIPCIÓN |
+| Nro. | ENTIDADES   | DESCRIPCIÓN |
 |------|-------------|-------------|
 |EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
 |EN02  |E_Curso|Información de la curso como: nombre, número de estudiantes, notas por estudiante |
