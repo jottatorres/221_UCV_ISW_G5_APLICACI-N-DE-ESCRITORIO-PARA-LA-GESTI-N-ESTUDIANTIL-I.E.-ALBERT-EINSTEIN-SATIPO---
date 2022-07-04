@@ -46,7 +46,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    #### 1.6.2. Recursos Humanos 
    
 | CARGO          | NOMBRE                  | FUNCIONES |
-|:----------------|:-------------------------|:-----------|
+|:----|:----|:----|
 |JEFE DE PROYECTO|Curay Pari Jenifer Varia|<p>Generar más negocio en el cliente.<br> <p>Fomentar y liderar la educación de las personas del propio equipo del proyecto.<br> <p>Garantizar que el proyecto cumple los estándares de calidad esperados.<br> <p>Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto.</p>|
 |Analista de Sistemas|<p>Torres Durán Jhoslin Yener<br> <p>Tolentino Mallaopoma Luis Alberto<br> <p>Acuña Martel Andree Fidel</p> |<p>Diseñar el sistema informático que satisfaga las necesidades de la empresa.<br> <p>Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa.<br> <p>Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas.</p>|
 |Programador |Holguín Cueva Pedro Alejandro |<p>Creación de programas.<br> <p>Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora.</p>|
@@ -95,7 +95,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |Informe (Aspectos de la Organizacion)|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos del negocio)|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Metodologí)|   |   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |
-|Presentacion del 1er avance|   |   |   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |
+|Presentacion del 1er avance|   |   |   |:heavy_check_mark:|   |   |   |   |   |   |   |  ✔ |   |
 |Funciones a realizar en la aplicacion web|   |   |   |:heavy_check_mark:|:heavy_check_mark:|   |   |   |   |   |   |   |   |
 |Desarrollo de la aplicacion web - I|   |   |   |   |   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|   |   |   |   |   |
 |Presentacion del 2do avance|   |   |   |   |   |   |   |   |:heavy_check_mark:|   |   |   |   |
