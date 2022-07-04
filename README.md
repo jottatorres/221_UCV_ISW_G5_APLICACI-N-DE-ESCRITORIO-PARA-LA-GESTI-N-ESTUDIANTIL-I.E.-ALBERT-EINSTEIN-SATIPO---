@@ -95,7 +95,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |Informe (Aspectos de la Organizacion)|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos del negocio)|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Metodologí)|   |   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |
-|Presentacion del 1er avance|   |   |   |:heavy_check_mark:|   |   |   |   |   |   |   |  ✔ |   |
+|Presentacion del 1er avance|   |   |   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |
 |Funciones a realizar en la aplicacion web|   |   |   |:heavy_check_mark:|:heavy_check_mark:|   |   |   |   |   |   |   |   |
 |Desarrollo de la aplicacion web - I|   |   |   |   |   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|   |   |   |   |   |
 |Presentacion del 2do avance|   |   |   |   |   |   |   |   |:heavy_check_mark:|   |   |   |   |
