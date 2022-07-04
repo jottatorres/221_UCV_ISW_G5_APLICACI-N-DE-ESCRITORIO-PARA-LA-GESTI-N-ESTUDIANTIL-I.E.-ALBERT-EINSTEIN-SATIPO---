@@ -89,7 +89,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    #### 1.6.5. Cronograma de Actividades
    
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
-|:--------------------------|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Planteamiento del proyecto|:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |   | 
 |Presentación de la propuesta del proyecto al representante del proyecto|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
 |Informe (Aspectos de la Organizacion)|   |:heavy_check_mark:|   |   |   |   |   |   |   |   |   |   |   |
