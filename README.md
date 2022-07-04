@@ -173,18 +173,28 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 |IDENTIFICADOR | RNF1   |
 |--------------|--------|
-|NOMBRE        |Accesibilidad |
-|DESCRIPCION   |El sistema le permitira al administrador poder realizar registros |
+|NOMBRE        |Usabilidad |
+|DESCRIPCION   |El sistema debe ser de facil manejo para los usuarios del sistema |
 
 |IDENTIFICADOR | RNF2   |
 |--------------|--------|
-|NOMBRE        |Base de datos |
-|DESCRIPCION   |El sistema se debe desarrollar en PHP 7.4 utilizando el Framework del Laravel 8 |
+|NOMBRE        |Accesibilidad |
+|DESCRIPCION   |Solo los usuarios con permisos podran realizar registros |
 
 |IDENTIFICADOR | RNF3   |
 |--------------|--------|
-|NOMBRE        |Eficiencia |
-|DESCRIPCION   |Toda funcionalidad del sistema y transaccion de negocio debe responder al usuario |
+|NOMBRE        |Seguridad |
+|DESCRIPCION   |El sistema debe permitir una manera de autenticación de los usuarios para ingresar al sistema |
+
+|IDENTIFICADOR | RNF4   |
+|--------------|--------|
+|NOMBRE        |Rendimiento |
+|DESCRIPCION   |El sistema debe de ser capaz de mantener la velocidad de respuesta aun cuando este se encuentre con muchas solicitudes.|
+
+|IDENTIFICADOR | RNF5   |
+|--------------|--------|
+|NOMBRE        |Base de datos |
+|DESCRIPCION   |El sistema se desarrolla en PHP 7.4 utilizando el Framework del Laravel 8 |
 
 
 ####     3.1.3.   Relación de actores y su descripción, cuadro indicando
