@@ -113,64 +113,87 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
  ####  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
  
-| IDENTIFICADOR | RF1    |
-|---------------|--------|
-| NOMBRE        | Iniciar Sesión   |
-| DESCRIPCION   | El sistema debe permitir la autenticación del DOCENTE o ALUMNO     | 
-| OBSERVACIONES | El colegio entrega los Usuarios y contraseñas a docentes y alumnos | 
+|IDENTIFICADOR | RF1    |
+|--------------|--------|
+|NOMBRE        |Iniciar Sesión   |
+|DESCRIPCION   |El sistema debe permitir la autenticación del DOCENTE o ALUMNO     | 
+|OBSERVACIONES |El colegio entrega los Usuarios y contraseñas a DOCENTE y ALUMNO | 
 
-| IDENTIFICADOR | RF2    |
-|---------------|--------|
-|NOMBRE         |Registrar información de docentes y alumnos|
-|DESCRIPCION    |El sistema debe permitir el registro de cada docente y alumno|
+|IDENTIFICADOR | RF2    |
+|--------------|--------|
+|NOMBRE        |Registrar datos personales del DOCENTE o ALUMNO|
+|DESCRIPCION   |El sistema debe permitir el registro de datos a cada DOCENTE y ALUMNO|
 
-| IDENTIFICADOR | RF3    |
-|---------------|--------|
-|NOMBRE         |Selección de curso|
-|DESCRIPCION    |El DOCENTE podrá seleccionar el curso que dicta y el ALUMNO podrá seleccionar los cursos que tiene|
-| OBSERVACIONES | El colegio asigna el curso que dicta cada docente y alumno |
+|IDENTIFICADOR | RF3    |
+|--------------|--------|
+|NOMBRE        |Asignar CURSOS al DOCENTE|
+|DESCRIPCION   |El sistema debe permitir al ADMINISTRADOR asignar uno o mas cursos al DOCENTE|
+|OBSERVACIONES |El colegio se encargara de asignar el curso que dicta cada docente|
 
-| IDENTIFICADOR | RF4    |
-|---------------|--------|
-|NOMBRE         |Registro de notas|
-|DESCRIPCION    |El DOCENTE podrá añadir, editar o eliminar las notas del respectivo curso|
+|IDENTIFICADOR | RF4    |
+|--------------|--------|
+|NOMBRE        |Asignar CURSOS al ALUMNO|
+|DESCRIPCION   |El sistema debe permitir al ADMINISTRADOR asignar cursos al ALUMNO por grado de estudio|
+|OBSERVACIONES |El colegio se encargara de asignar el curso|
 
-| IDENTIFICADOR | RF5    |
-|---------------|--------|
-|NOMBRE         |Mostrar número de ALUMNOS por curso |
-|DESCRIPCION    |El DOCENTE visualizar la cantidad de estudian y sus datos|
+|IDENTIFICADOR | RF5    |
+|--------------|--------|
+|NOMBRE        |Selección de curso|
+|DESCRIPCION   |El DOCENTE podrá seleccionar el curso que dicta y el ALUMNO podrá seleccionar los cursos que tiene|
 
-| IDENTIFICADOR | RF6    |
-|---------------|--------|
-|NOMBRE         |Mostrar reporte de notas |
-|DESCRIPCION    |El ALUMNO podrá visualizar sus notas de todos sus cursos|
+|IDENTIFICADOR | RF6    |
+|--------------|--------|
+|NOMBRE        |Listar curso |
+|DESCRIPCION   |El sistema debe permitir al DOCENTE o ALUMNO visualizar una lista de los cursos que dicta o lleva|
+
+|IDENTIFICADOR | RF7    |
+|--------------|--------|
+|NOMBRE        |Registro de notas|
+|DESCRIPCION   |El sistema debe permitir al DOCENTE poder agregar las notas del alumno|
+
+|IDENTIFICADOR | RF8    |
+|--------------|--------|
+|NOMBRE        |Editar o eliminar de notas|
+|DESCRIPCION   |El sistema debe permitir al DOCENTE editar o eliminar las notas del ALUMNO|
+
+|IDENTIFICADOR | RF9    |
+|--------------|--------|
+|NOMBRE        |Listar ALUMNOS por curso |
+|DESCRIPCION   |El sistema debe permitir al DOCENTE visualizar una lista de ALUMNOS por curso|
+
+|IDENTIFICADOR | RF10    |
+|--------------|--------|
+|NOMBRE        |Mostrar reporte de notas |
+|DESCRIPCION   |El ALUMNO podrá visualizar una lista de notas de todos sus cursos|
+
+
 
 
  ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
-| IDENTIFICADOR | RNF1   |
-|---------------|--------|
-|NOMBRE         |Accesibilidad |
-|DESCRIPCION    |El sistema le permitira al administrador poder realizar registros |
+|IDENTIFICADOR | RNF1   |
+|--------------|--------|
+|NOMBRE        |Accesibilidad |
+|DESCRIPCION   |El sistema le permitira al administrador poder realizar registros |
 
-| IDENTIFICADOR | RNF2   |
-|---------------|--------|
-|NOMBRE         |Base de datos |
-|DESCRIPCION    |El sistema se debe desarrollar en PHP 7.4 utilizando el Framework del Laravel 8 |
+|IDENTIFICADOR | RNF2   |
+|--------------|--------|
+|NOMBRE        |Base de datos |
+|DESCRIPCION   |El sistema se debe desarrollar en PHP 7.4 utilizando el Framework del Laravel 8 |
 
-| IDENTIFICADOR | RNF3   |
-|---------------|--------|
-|NOMBRE         |Eficiencia |
-|DESCRIPCION    |Toda funcionalidad del sistema y transaccion de negocio debe responder al usuario |
+|IDENTIFICADOR | RNF3   |
+|--------------|--------|
+|NOMBRE        |Eficiencia |
+|DESCRIPCION   |Toda funcionalidad del sistema y transaccion de negocio debe responder al usuario |
 
 
 ####     3.1.3.   Relación de actores y su descripción, cuadro indicando
 
-| ACTOR        | RESPONSABILIDADES |
-|--------------|-------------------|
-|Administrador |Realiza registro de docentes y alumnos|
-|Docente       |Encagado del registro de notas y cursos|
-|Alumno        |Visualiza sus notas |
+|ACTOR        | RESPONSABILIDADES |
+|-------------|-------------------|
+|Administrador|Realiza registro de docentes y alumnos|
+|Docente      |Encagado del registro de notas y cursos|
+|Alumno       |Visualiza sus notas |
 
 
 ####     3.1.4.   Relación de casos de uso, cuadro indicando
