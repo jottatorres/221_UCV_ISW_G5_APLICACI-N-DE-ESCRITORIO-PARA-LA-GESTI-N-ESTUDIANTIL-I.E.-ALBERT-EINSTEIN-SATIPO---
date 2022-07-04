@@ -163,7 +163,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 |IDENTIFICADOR | RF10    |
 |--------------|--------|
-|NOMBRE        |Mostrar reporte de notas |
+|NOMBRE        |Revisar reporte de notas |
 |DESCRIPCION   |El ALUMNO podrá visualizar una lista de notas de todos sus cursos|
 
 
