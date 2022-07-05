@@ -72,13 +72,13 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    #### 1.6.4. Hardware 
 
   Los complementos que se nesecitaran son los siguientes:
-  ### Computadora del Cliente:
+  ##### Computadora del Cliente:
   * Procesador Dual Core de 3,0 GHz o superior
   * 4 GB de memoria RAM
   * 500 GB de disco duro
   * Tarjeta de red 10/100mbs
   * Conexión a red 20 mbs minimo
-  ### Servidor de Base de datos en la nube:
+  ##### Servidor de Base de datos en la nube:
   * Procesador 4 nucleos o superior
   * 4 GB de memoria RAM
   * 500 GB de disco duro
