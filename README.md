@@ -229,12 +229,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |CU17|Actualizar datos|El sistema actualizara automaticamente su base de datos con respecto a los datos personales de los Usuarios|
 |CU18|Actualizar notas|El sistema actualizara automaticamente su base de datos con respecto a las notas de los Alumnos|
 
-| Nro. | CASOS DE USO   | DESCRIPCIÓN |
-|------|----------------|-------------|
-|CU01  |Registrar Docentes y alumnos |El administrador realizará los registros de los docentes y alumnos|
-|CU02  |Realizar Reportes |El docente realizará los reportes de notas|
-|CU03  | Creación de los cursos |El administrador realizará las creaciones de los cursos|
-
 ####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
 
 ![CU1](https://i.imgur.com/CwDzcAo.png)
