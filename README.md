@@ -51,7 +51,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |Analista de Sistemas|<p>Torres Durán Jhoslin Yener<br> <p>Tolentino Mallaopoma Luis Alberto<br> <p>Acuña Martel Andree Fidel</p> |<p>Diseñar el sistema informático que satisfaga las necesidades de la empresa.<br> <p>Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa.<br> <p>Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas.</p>|
 |Programador |Holguín Cueva Pedro Alejandro |<p>Creación de programas.<br> <p>Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora.</p>|
 
-   #### 1.6.3. Software 
+#### 1.6.3. Software 
 
   La aplicación contará con los siguientes requisitos:
 * PHP 7.4 (Laravel 8)
@@ -69,7 +69,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 * Sistema Operativo multiplataforma bajo Windows, Linux y Mac OSX
 * Navegador web (Opera, Firefox, Chrome)
 
-   #### 1.6.4. Hardware 
+#### 1.6.4. Hardware 
 
   Los complementos que se nesecitaran son los siguientes:
   ##### Computadora del Cliente:
@@ -83,7 +83,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
   * 4 GB de memoria RAM
   * 500 GB de disco duro
  
-   #### 1.6.5. Cronograma de Actividades
+ #### 1.6.5. Cronograma de Actividades
    
 |CRONOGRAMA DE ACTIVIDADES |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11 |12 |13 |
 |--------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
