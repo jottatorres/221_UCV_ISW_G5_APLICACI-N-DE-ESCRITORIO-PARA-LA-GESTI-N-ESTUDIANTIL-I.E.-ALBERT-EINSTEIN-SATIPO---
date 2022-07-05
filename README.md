@@ -234,31 +234,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![CU4](https://i.imgur.com/MyYSUoa.png)
 
 ####     3.1.6.   Plantilla de especificación de casos de uso
-<table id="tabla1">
-  <tr>
-    <th>título1</th>
-    <th>título2</th>
-    <th>título3</th>
-  </tr>
-  <tr>
-    <td id="nested">
-      <table id="tabla2">
-        <tr>
-          <td>celda1</td>
-          <td>celda2</td>
-          <td>celda3</td>
-        </tr>
-      </table>
-    </td>
-    <td>celda2</td>
-    <td>celda3</td>
-  </tr>
-  <tr>
-    <td>celda4</td>
-    <td>celda5</td>
-    <td>celda6</td>
-  </tr>
-</table>
 
 ![PLANTILLA](https://i.imgur.com/5QZbD2o.jpg)
 ![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
