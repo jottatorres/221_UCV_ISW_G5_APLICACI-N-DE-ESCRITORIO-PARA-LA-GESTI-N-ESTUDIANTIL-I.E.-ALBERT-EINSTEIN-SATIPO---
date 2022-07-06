@@ -216,11 +216,10 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |CU10|Registrar notas por Curso|El sistema permitira al docente registrar notas por curso|
 |CU11|Seleccionar Alumno| El sistema permitira seleccionar a los Alumnos y segun los permisos que tenga|
 |CU12|Registrar notas por Alumno|El sistema permitira al docente registrar notas por Alumno|
-|CU13|Consultar Curso|El sistema permitira a los Alumnos que puedan consultar informacion del curso|
-|CU14|Visualizar notas por Curso|El sistema permitira a los Alumnos que puedan consultar sus notas por cada curso que seleccionen|
-|CU15|Visualizar notas por Alumno|El sistema permitira a los Alumnos que puedan consultar sus notas de todos los cursos|
-|CU16|Actualizar datos|El sistema actualizara automaticamente su base de datos con respecto a los datos personales de los Usuarios|
-|CU17|Actualizar notas|El sistema actualizara automaticamente su base de datos con respecto a las notas de los Alumnos|
+|CU13|Visualizar notas por Curso|El sistema permitira a los Alumnos que puedan consultar sus notas por cada curso que seleccionen|
+|CU14|Visualizar notas por Alumno|El sistema permitira a los Alumnos que puedan consultar sus notas de todos los cursos|
+|CU15|Actualizar datos|El sistema actualizara automaticamente su base de datos con respecto a los datos personales de los Usuarios|
+|CU16|Actualizar notas|El sistema actualizara automaticamente su base de datos con respecto a las notas de los Alumnos|
 
 ####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
 
