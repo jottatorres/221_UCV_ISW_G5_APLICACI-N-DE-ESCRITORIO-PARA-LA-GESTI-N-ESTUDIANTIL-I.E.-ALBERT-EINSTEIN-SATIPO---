@@ -164,7 +164,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |DESCRIPCION   |El ALUMNO podrá visualizar una lista de notas de todos sus cursos|
 
 
-          Requerimientos funciones |0|0|0|0|0|0|0|0|0|
+          Requerimientos funciones |0|0|0|0|0|0|0|0|0
           :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|
           **---**|**RF01 →Buscar Medicamento**|**RF02 →Listar Producto**|**RF03 →Consultar Ventas**|**RF04 →Agregar Compra**|**RF05 →Entregar factura o boleta**|**RF06 →Revisar inventario**|**RF07 →Registrar Productos**|**RF08 →Editar o Eliminar Producto**|**RF09 →Revisar Stock**
           **Identificar requerimientos**    |x|-|-|x|x|-|x|-|x|x
