@@ -211,19 +211,20 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |CU02|Eliminar Usuario |El sistema permitira al Administrador eliminar a los docentes y alumnos|
 |CU03|Asignar Rol      |El sistema permitira al Administrador asignar un rol al Usuario de docente o alumno|
 |CU04|Cambiar Rol      |El sistema permitira al Administrador cambiar el rol del Usuario|
-|CU05|Destinar Curso   |El sistema permitira al Administrador designar los Cursos a los docentes y Alumnos|
-|CU06|Eliminar Curso   |El sistema permitira al Administrador eliminar Cursos|
-|CU07|Editar datos personales|El sistema permitira al Usuario editar sus datos personales|
-|CU08|Actualizar ID y contraseña|El sistema permitira al Usuario actualizar ID y contraseña|
-|CU09|Seleccionar Curso|El sistema permitira al docente y alumno seleccionar un curso|
-|CU10|Registrar notas por Curso|El sistema permitira al docente registrar notas por curso|
-|CU11|Seleccionar Alumno| El sistema permitira seleccionar a los Alumnos y segun los permisos que tenga|
-|CU12|Registrar notas por Alumno|El sistema permitira al docente registrar notas por Alumno|
-|CU13|Consultar Curso|El sistema permitira a los Alumnos que puedan consultar informacion del curso|
-|CU14|Visualizar notas por Curso|El sistema permitira a los Alumnos que puedan consultar sus notas por cada curso que seleccionen|
-|CU15|Visualizar notas por Alumno|El sistema permitira a los Alumnos que puedan consultar sus notas de todos los cursos|
-|CU16|Actualizar datos|El sistema actualizara automaticamente su base de datos con respecto a los datos personales de los Usuarios|
-|CU17|Actualizar notas|El sistema actualizara automaticamente su base de datos con respecto a las notas de los Alumnos|
+|CU05|Registrar Curso  |El sistema permitira al Administrador registrar los Cursos|
+|CU06|Destinar Curso   |El sistema permitira al Administrador designar los Cursos a los docentes y Alumnos|
+|CU07|Eliminar Curso   |El sistema permitira al Administrador eliminar Cursos|
+|CU08|Editar datos personales|El sistema permitira al Usuario editar sus datos personales|
+|CU09|Actualizar ID y contraseña|El sistema permitira al Usuario actualizar ID y contraseña|
+|CU10|Seleccionar Curso|El sistema permitira al docente y alumno seleccionar un curso|
+|CU11|Registrar notas por Curso|El sistema permitira al docente registrar notas por curso|
+|CU12|Seleccionar Alumno| El sistema permitira seleccionar a los Alumnos y segun los permisos que tenga|
+|CU13|Registrar notas por Alumno|El sistema permitira al docente registrar notas por Alumno|
+|CU14|Consultar Curso|El sistema permitira a los Alumnos que puedan consultar informacion del curso|
+|CU15|Visualizar notas por Curso|El sistema permitira a los Alumnos que puedan consultar sus notas por cada curso que seleccionen|
+|CU16|Visualizar notas por Alumno|El sistema permitira a los Alumnos que puedan consultar sus notas de todos los cursos|
+|CU17|Actualizar datos|El sistema actualizara automaticamente su base de datos con respecto a los datos personales de los Usuarios|
+|CU18|Actualizar notas|El sistema actualizara automaticamente su base de datos con respecto a las notas de los Alumnos|
 
 ####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
 
