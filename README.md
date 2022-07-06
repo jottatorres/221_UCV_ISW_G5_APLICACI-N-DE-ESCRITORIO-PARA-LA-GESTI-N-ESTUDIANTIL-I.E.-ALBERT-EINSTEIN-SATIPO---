@@ -231,9 +231,15 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ####     3.1.6.   Plantilla de especificación de casos de uso
 
-![PLANTILLA](https://i.imgur.com/5QZbD2o.jpg)
-![PLANTILLA](https://i.imgur.com/F2RW3yF.jpg)
-![PLANTILLA](https://i.imgur.com/JfxJ1JO.jpg)
+<table><tr><th>IDENTIFICACIÓN</th><th>C.U.01</th></tr>
+<tr><th>CASO DE USO</th><td>Registrar Usuario</td></tr>
+<tr><th>ACTORES</th><td>Administrador</td></tr>
+<tr><th>PROPOSITO</th><td>Permite al Administrador registrar los datos basicos del Usuario</td </tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr><td>1. El Administrador se situara en el menú principal y se dirigira al submenu de Usuarios</td><td>2. El sistema mostrara un listado de Usuarios y botones</td></tr>
+<tr><td>3. El Administrador dara un click en el boton "Nuevo usuario"</td><td>4. El sistema mostrara un formulario para el registro</td></tr>
+<tr><td>5. El Administrador afiliara los datos del Usuario</td><td>6. El sistema registrara los datos ingresados y creara una nueva cuenta de Usuario</td></tr></table>
 
 ####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 |ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
