@@ -46,7 +46,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    #### 1.6.2. Recursos Humanos 
    
 | CARGO          | NOMBRE                  | FUNCIONES |
-|:----|:----|:----|
+|----|----|----|
 |JEFE DE PROYECTO|Curay Pari Jenifer Varia|<p>Generar más negocio en el cliente.<br> <p>Fomentar y liderar la educación de las personas del propio equipo del proyecto.<br> <p>Garantizar que el proyecto cumple los estándares de calidad esperados.<br> <p>Establecer métodos, técnicas y herramientas a utilizar por el equipo del proyecto.</p>|
 |Analista de Sistemas|<p>Torres Durán Jhoslin Yener<br> <p>Tolentino Mallaopoma Luis Alberto<br> <p>Acuña Martel Andree Fidel</p> |<p>Diseñar el sistema informático que satisfaga las necesidades de la empresa.<br> <p>Asumir el proceso funcional de análisis de las necesidades, el diseño de un sistema apropiado, la escritura y el desarrollo de programas en la empresa.<br> <p>Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas.</p>|
 |Programador |Holguín Cueva Pedro Alejandro |<p>Creación de programas.<br> <p>Traslada las especificaciones del analista en código ejecutable y comprensivo para la computadora.</p>|
@@ -162,6 +162,15 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |--------------|--------|
 |NOMBRE        |Revisar reporte de notas |
 |DESCRIPCION   |El ALUMNO podrá visualizar una lista de notas de todos sus cursos|
+          Requerimientos funciones |0|0|0|0|0|0|0|0|0
+          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|
+          **---**|**RF01 →Buscar Medicamento**|**RF02 →Listar Producto**|**RF03 →Consultar Ventas**|**RF04 →Agregar Compra**|**RF05 →Entregar factura o boleta**|**RF06 →Revisar inventario**|**RF07 →Registrar Productos**|**RF08 →Editar o Eliminar Producto**|**RF09 →Revisar Stock**
+          **Identificar requerimientos**    |x|-|-|x|x|-|x|-|x|x
+          **Analizar los requerimientos**   |x|-|-|x|x|-|-|x|x|x
+          **Especificar los requerimientos**|x|-|-|x|x|-|-|x|-|x
+          **Representar los requerimientos**|-|x|-|-|-|-|-|x|x|-
+          **Validar los requerimientos**    |-|x|x|x|-|x|-|-|x|x
+          **Administrar los requerimientos**|x|-|x|-|-|x|-|-|x|-
 
 
 
