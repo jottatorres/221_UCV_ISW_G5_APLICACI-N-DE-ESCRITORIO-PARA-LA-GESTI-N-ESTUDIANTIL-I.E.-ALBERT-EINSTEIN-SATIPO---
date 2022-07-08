@@ -382,52 +382,44 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 
 ![MCC](https://i.imgur.com/qtoEc9A.png)
 
-###     3.2 Análisis Orientado a Objetos.
-   #### 3.2.1. Modelo de Análisis 
-![Modelo de Análisis](https://i.imgur.com/LcaZaCG.png)
-
-   #### 3.3.1.1. Diagrama de Análisis de Clases 
-![Planificación Académica](https://i.imgur.com/0fzxp15.png)
-![Inscripción](https://i.imgur.com/dxwm8QA.png)
-![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
-
-
-####     3.2.1.2  Diagramas de Secuencia
-
-![DS1](https://i.imgur.com/TDINirR.png)
-![DS2](https://i.imgur.com/HfeCmEN.png)
-![DS3](https://i.imgur.com/1O6jvy5.png)
-
-####     3.2.2. Lista de Clases de Interfaz
-
-| Nro. | INTERFAZ       | DESCRIPCIÓN |
-|------|----------------|-------------|
-|IT01  |I_Logeo         |Ventana que permite el ingreso de ID y contraseña|
-|IT02  |I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra curso, notas|
-|IT03  |I_Curso   |Ventana muestra información de la curso como: aula, horario, docente asignado y número de estudiantes|
-|IT04  |I_Nota          |Ventana que muestra una formulario donde se podrá ingresar o visualizar las notas del estudiante|
-
-####     3.2.3. Lista de Clases de Control
-
-| Nro. | CONTROLES   | DESCRIPCIÓN |
-|------|-------------|-------------|
-|CO01  |C_Logeo      |Se encarga en la validación del ID y contraseña|
-|CO02  |Gestor_datos |Coordina, y actualiza la información del usuario como también sus contraseñas  |
-|CO03  |Gestor_Notas |Crea, modifica, elimina y visualiza las notas del estudiante (depende de los permisos que tenga el usuario)|
-
-####     3.2.4. Lista de Clases de Entidades
-
-| Nro. | ENTIDADES   | DESCRIPCIÓN |
-|------|-------------|-------------|
-|EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
-|EN02  |E_Curso|Información de la curso como: nombre, número de estudiantes, notas por estudiante |
-
-#### 3.2.5. Modelo Logico de Clases 
-![Modelo Logico de Clases](https://i.imgur.com/bg0cCAL.png)
-#### 3.3. DISEÑO ORIENTADO A OBJETOS .
-
-#### 3.3.1  Modelo Físico
-
+### 3.2 Análisis Orientado a Objetos.
+   #### 3.2.1. Modelo de Análisis
+   #### 3.2.1.1. Diagrama de Análisis de Clases
+   ![Modelo de Análisis](https://i.imgur.com/LcaZaCG.png)
+   ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
+   ![Inscripción](https://i.imgur.com/dxwm8QA.png)
+   ![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
+   
+   #### 3.2.1.2  Diagramas de Secuencia y Colaboración de Análisis
+   ![DS1](https://i.imgur.com/TDINirR.png)
+   ![DS2](https://i.imgur.com/HfeCmEN.png)
+   ![DS3](https://i.imgur.com/1O6jvy5.png)
+   #### 3.2.2. Lista de Clases de Interfaz
+   
+   | Nro. | INTERFAZ       | DESCRIPCIÓN |
+   |------|----------------|-------------|
+   |IT01  |I_Logeo         |Ventana que permite el ingreso de ID y contraseña|
+   |IT02  |I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra curso, notas|
+   |IT03  |I_Curso   |Ventana muestra información de la curso como: aula, horario, docente asignado y número de estudiantes|
+   |IT04  |I_Nota          |Ventana que muestra una formulario donde se podrá ingresar o visualizar las notas del estudiante|
+   
+   #### 3.2.3. Lista de Clases de Control
+   | Nro. | CONTROLES   | DESCRIPCIÓN |
+   |------|-------------|-------------|
+   |CO01  |C_Logeo      |Se encarga en la validación del ID y contraseña|
+   |CO02  |Gestor_datos |Coordina, y actualiza la información del usuario como también sus contraseñas  |
+   |CO03  |Gestor_Notas |Crea, modifica, elimina y visualiza las notas del estudiante (depende de los permisos que tenga el usuario)|
+   
+   #### 3.2.4. Lista de Clases de Entidades
+   | Nro. | ENTIDADES   | DESCRIPCIÓN |
+   |------|-------------|-------------|
+   |EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
+   |EN02  |E_Curso|Información de la curso como: nombre, número de estudiantes, notas por estudiante |
+   #### 3.2.5. Modelo Logico de Clases 
+   ![Modelo Logico de Clases](https://i.imgur.com/bg0cCAL.png)
+   
+#### 3.3. DISEÑO ORIENTADO A OBJETOS
+#### 3.3.1. Modelo Físico
 ![MF1](https://i.imgur.com/7CfEfsG.png)
 ![MF2](https://i.imgur.com/7CfEfsG.png)
 
@@ -435,7 +427,6 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![ML1](https://i.imgur.com/hGdXXX7.png)
 ![ML2](https://i.imgur.com/ssPSz4s.png)
 ![ML3](https://i.imgur.com/LfrvH10.png)
-
 
 ## Login
 ![LOGIN](https://i.imgur.com/ctSGdJh.png)
