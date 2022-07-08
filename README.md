@@ -414,10 +414,10 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    
 #### 3.3. DISEÑO ORIENTADO A OBJETOS
 #### 3.3.1. Modelo Físico
+#### 3.3.1.1. Creación de Esquema y Tablas
 ![MF1](https://i.imgur.com/7CfEfsG.png)
 ![MF2](https://i.imgur.com/7CfEfsG.png)
 
-#### 3.3.1.1. Creación de Esquema y Tablas
 ![ML1](https://i.imgur.com/hGdXXX7.png)
 ![ML2](https://i.imgur.com/ssPSz4s.png)
 ![ML3](https://i.imgur.com/LfrvH10.png)
