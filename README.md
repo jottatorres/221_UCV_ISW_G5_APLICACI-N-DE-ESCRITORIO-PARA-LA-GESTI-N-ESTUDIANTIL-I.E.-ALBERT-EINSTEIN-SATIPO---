@@ -426,11 +426,13 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
       ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
    ![Inscripción](https://i.imgur.com/dxwm8QA.png)
    ![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
-
+   
+#### 3.3.2. Estructura Modular del SWOO
+#### 3.3.2.1. Diseño de Ventanas
 ## Login
 ![LOGIN](https://i.imgur.com/ctSGdJh.png)
+   
 ## Listar Profesores
-
 ![lISTP](https://i.imgur.com/awosa07.png)
 
 ## Crear Profesores
@@ -444,5 +446,4 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![CREC](https://i.imgur.com/BgJmuOQ.png)
 
 ###  3.3.2.2. Diseño de Reportes 
-
 ![REPORTS](https://i.imgur.com/Dg2Hotd.png)
