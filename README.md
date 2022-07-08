@@ -377,14 +377,15 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |R6 |Toda funcionalidad del sistema y transaccion de datos debe responder al usuario.|Producto|Alto|GDP, Usuario|Cumplimiento del 100% de la especificacion.|
 |R7 |Registrar docentes y alumnos.|GDP|Alto|GDP, Administrador|Debe cumplir con el objetivo especificado.|
 |R8 |Realizar reportes.|GDP|Alto|GDP, Administrador|Cumplimiento de reportes.|
-
-####     3.1.8.   Modelo Conceptual de Clases.
-
-![MCC](https://i.imgur.com/qtoEc9A.png)
+   
+   ####     3.1.8.   Modelo Conceptual de Clases.
+   ![MCC](https://i.imgur.com/VMCjkzq.png)
 
 ### 3.2 Análisis Orientado a Objetos.
    #### 3.2.1. Modelo de Análisis
    #### 3.2.1.1. Diagrama de Análisis de Clases
+   ![DC](https://i.imgur.com/qtoEc9A.png)
+   
    ![Modelo de Análisis](https://i.imgur.com/LcaZaCG.png)
    ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
    ![Inscripción](https://i.imgur.com/dxwm8QA.png)
