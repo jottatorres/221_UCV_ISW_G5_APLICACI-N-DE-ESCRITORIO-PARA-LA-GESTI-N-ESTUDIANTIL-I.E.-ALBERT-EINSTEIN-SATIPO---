@@ -99,16 +99,13 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |Desarrollo de la aplicacion web - II|   |   |   |   |   |   |   |   |   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|   |
 |Presentacion final del proyecto|   |   |   |   |   |   |   |   |   |   |   |   |:heavy_check_mark:|
 
-  # 2. ASPECTOS DEL NEGOCIO
-  
-  ### 2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
-  En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y entre ellos el sector estudiantil se vio obligado a continuar sus labores dentro de casa haciendo uso de las Tecnologías de la información para ello se busca implementar un sistema informático en el cual profesores, docentes alumnos y padres de familia puedan tener un control y registro de sus labores diarias dentro de la institución y poder sistematizar todos los procesos en una aplicación  web pensada para ello.
+# 2. ASPECTOS DEL NEGOCIO
+### 2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y entre ellos el sector estudiantil se vio obligado a continuar sus labores dentro de casa haciendo uso de las Tecnologías de la información para ello se busca implementar un sistema informático en el cual profesores, docentes alumnos y padres de familia puedan tener un control y registro de sus labores diarias dentro de la institución y poder sistematizar todos los procesos en una aplicación  web pensada para ello.
 
-  # 3. METODOLOGÍA
-
- ###  3.1. Modelo de Requerimientos.
-
- ####  	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
+# 3. METODOLOGÍA
+###  3.1. Modelo de Requerimientos.
+#### 3.1.1. Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
  
 |IDENTIFICADOR | RF1    |
 |--------------|--------|
@@ -163,7 +160,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |NOMBRE        |Revisar reporte de notas |
 |DESCRIPCION   |El ALUMNO podrá visualizar una lista de notas de todos sus cursos|
 
- ####    3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
+#### 3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
 |IDENTIFICADOR | RNF1   |
 |--------------|--------|
@@ -191,7 +188,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |DESCRIPCION   |El sistema se desarrolla en PHP 7.4 utilizando el Framework del Laravel 8 |
 
 
-####     3.1.3.   Relación de actores y su descripción, cuadro indicando
+#### 3.1.3. Relación de actores y su descripción, cuadro indicando
 
 |ACTOR        | RESPONSABILIDADES |
 |-------------|-------------------|
@@ -200,7 +197,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |Alumno       |Visualiza sus notas |
 
 
-####     3.1.4.   Relación de casos de uso, cuadro indicando
+#### 3.1.4. Relación de casos de uso, cuadro indicando
 
 |Nro.| CASOS DE USO    | DESCRIPCIÓN |
 |----|-----------------|-------------|
@@ -219,15 +216,13 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |CU13|Visualizar notas por Curso|El sistema permitira a los Alumnos que puedan consultar sus notas por cada curso que seleccionen|
 |CU14|Visualizar notas por Alumno|El sistema permitira a los Alumnos que puedan consultar sus notas de todos los cursos|
 
-####     3.1.5.   Modelo de Casos de Uso de Requerimientos.
-
+#### 3.1.5. Modelo de Casos de Uso de Requerimientos.
 ![CU1](https://i.imgur.com/CwDzcAo.png)
 ![CU2](https://i.imgur.com/PNPnIt8.png)
 ![CU3](https://i.imgur.com/tH4wWaF.png)
 ![CU4](https://i.imgur.com/tV5FPpe.png)
 
-####     3.1.6.   Plantilla de especificación de casos de uso
-
+#### 3.1.6. Plantilla de especificación de casos de uso
 <table><tr><th>IDENTIFICACIÓN</th><th>C.U.01</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar Usuario</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
@@ -366,7 +361,7 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 <tr><td>1. El Alumno se situara en el menú principal y se dirigira al su perfil</td><td>2. El sistema mostrara la ventana Usuario</td></tr>
 <tr><td>3. El Alumno realizara un click en el boton "Notas"</td><td>4. El sistema mostrara una tabla con la informacion de todas las notas de todos sus Cursos</td></tr></table>
 
-####     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
+#### 3.1.7. Matriz de trazabilidad de los requerimientos y casos de uso 
 |ID |REQUISITOS|TIPO|PRIORIDAD|stakehotde|Criterio de aceptacion|
 |---|----------|----|---------|----------|------|
 |R1 |El sistema debe permitir el registro de cada docente y alumno. |Gestion de proyecto|Medio|GDP|Cumplimiento del 100% de la especificacion.|
@@ -377,40 +372,39 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 |R6 |Toda funcionalidad del sistema y transaccion de datos debe responder al usuario.|Producto|Alto|GDP, Usuario|Cumplimiento del 100% de la especificacion.|
 |R7 |Registrar docentes y alumnos.|GDP|Alto|GDP, Administrador|Debe cumplir con el objetivo especificado.|
 |R8 |Realizar reportes.|GDP|Alto|GDP, Administrador|Cumplimiento de reportes.|
-   
-   ####     3.1.8.   Modelo Conceptual de Clases.
-   ![MCC](https://i.imgur.com/VMCjkzq.png)
+
+#### 3.1.8. Modelo Conceptual de Clases.
+![MCC](https://i.imgur.com/VMCjkzq.png)
 
 ### 3.2 Análisis Orientado a Objetos.
-   #### 3.2.1. Modelo de Análisis
-   #### 3.2.1.1. Diagrama de Análisis de Clases
-   ![DC](https://i.imgur.com/qtoEc9A.png)
-   
-   #### 3.2.1.2  Diagramas de Secuencia y Colaboración de Análisis
+#### 3.2.1. Modelo de Análisis
+#### 3.2.1.1. Diagrama de Análisis de Clases
+![DC](https://i.imgur.com/qtoEc9A.png)
+
+#### 3.2.1.2  Diagramas de Secuencia y Colaboración de Análisis
   falta
-   #### 3.2.2. Lista de Clases de Interfaz
-   
-   | Nro. | INTERFAZ       | DESCRIPCIÓN |
-   |------|----------------|-------------|
-   |IT01  |I_Logeo         |Ventana que permite el ingreso de ID y contraseña|
-   |IT02  |I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra curso, notas|
-   |IT03  |I_Curso   |Ventana muestra información de la curso como: aula, horario, docente asignado y número de estudiantes|
-   |IT04  |I_Nota          |Ventana que muestra una formulario donde se podrá ingresar o visualizar las notas del estudiante|
-   
-   #### 3.2.3. Lista de Clases de Control
-   | Nro. | CONTROLES   | DESCRIPCIÓN |
-   |------|-------------|-------------|
-   |CO01  |C_Logeo      |Se encarga en la validación del ID y contraseña|
-   |CO02  |Gestor_datos |Coordina, y actualiza la información del usuario como también sus contraseñas  |
-   |CO03  |Gestor_Notas |Crea, modifica, elimina y visualiza las notas del estudiante (depende de los permisos que tenga el usuario)|
-   
-   #### 3.2.4. Lista de Clases de Entidades
-   | Nro. | ENTIDADES   | DESCRIPCIÓN |
-   |------|-------------|-------------|
-   |EN01  | E_Usuario   |Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
-   |EN02  |E_Curso|Información de la curso como: nombre, número de estudiantes, notas por estudiante |
-   #### 3.2.5. Modelo Logico de Clases 
-   ![Modelo Logico de Clases](https://i.imgur.com/bg0cCAL.png)
+#### 3.2.2. Lista de Clases de Interfaz
+|Nro.| INTERFAZ       | DESCRIPCIÓN |
+|------|----------------|-------------|
+|IT01|I_Logeo         |Ventana que permite el ingreso de ID y contraseña|
+|IT02|I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra curso, notas|
+|IT03|I_Curso|Ventana muestra información de la curso como: aula, horario, docente asignado y número de estudiantes|
+|IT04|I_Nota|Ventana que muestra una formulario donde se podrá ingresar o visualizar las notas del estudiante|
+
+#### 3.2.3. Lista de Clases de Control
+|Nro.| CONTROLES   | DESCRIPCIÓN |
+|----|-------------|-------------|
+|CO01|C_Logeo|Se encarga en la validación del ID y contraseña|
+|CO02|Gestor_datos|Coordina, y actualiza la información del usuario como también sus contraseñas|
+|CO03|Gestor_Notas|Crea, modifica, elimina y visualiza las notas del estudiante (depende de los permisos que tenga el usuario)|
+
+#### 3.2.4. Lista de Clases de Entidades
+|Nro.| ENTIDADES   | DESCRIPCIÓN |
+|----|-------------|-------------|
+|EN01|E_Usuario|Información almacenada del usuario como: ID, contraseña, nombres, edad, grado de estudio|
+|EN02|E_Curso|Información de la curso como: nombre, número de estudiantes, notas por estudiante |
+#### 3.2.5. Modelo Logico de Clases 
+![Modelo Logico de Clases](https://i.imgur.com/bg0cCAL.png)
    
 #### 3.3. DISEÑO ORIENTADO A OBJETOS
 #### 3.3.1. Modelo Físico
@@ -421,29 +415,32 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![ML1](https://i.imgur.com/hGdXXX7.png)
 ![ML2](https://i.imgur.com/ssPSz4s.png)
 ![ML3](https://i.imgur.com/LfrvH10.png)
-   
-   
-      ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
-   ![Inscripción](https://i.imgur.com/dxwm8QA.png)
-   ![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
+
+![Planificación Académica](https://i.imgur.com/0fzxp15.png)
+![Inscripción](https://i.imgur.com/dxwm8QA.png)
+![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
    
 #### 3.3.2. Estructura Modular del SWOO
 #### 3.3.2.1. Diseño de Ventanas
-## Login
+### Login
 ![LOGIN](https://i.imgur.com/ctSGdJh.png)
    
-## Listar Profesores
+### Listar Profesores
 ![lISTP](https://i.imgur.com/awosa07.png)
 
-## Crear Profesores
+### Crear Profesores
 ![CREP](https://i.imgur.com/slZKsaF.png)
 
-
-## Listar Cursos
+### Listar Cursos
 ![lISTC](https://i.imgur.com/KoBYFdv.png)
 
-## Crear Cursos
+### Crear Cursos
 ![CREC](https://i.imgur.com/BgJmuOQ.png)
 
 ###  3.3.2.2. Diseño de Reportes 
 ![REPORTS](https://i.imgur.com/Dg2Hotd.png)
+
+#### 3.3.3. Diagrama de la capa presentación 
+#### 3.3.4. Diagramas de la Capa de Negocio
+#### 3.3.5. Diagrama de la Capa de Datos 
+#### 3.3.6. Diagramas de Componentes
