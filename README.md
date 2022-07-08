@@ -386,14 +386,8 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
    #### 3.2.1.1. Diagrama de Análisis de Clases
    ![DC](https://i.imgur.com/qtoEc9A.png)
    
-   ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
-   ![Inscripción](https://i.imgur.com/dxwm8QA.png)
-   ![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
-   
    #### 3.2.1.2  Diagramas de Secuencia y Colaboración de Análisis
-   ![DS1](https://i.imgur.com/TDINirR.png)
-   ![DS2](https://i.imgur.com/HfeCmEN.png)
-   ![DS3](https://i.imgur.com/1O6jvy5.png)
+  falta
    #### 3.2.2. Lista de Clases de Interfaz
    
    | Nro. | INTERFAZ       | DESCRIPCIÓN |
@@ -427,6 +421,11 @@ En la actualidad la educación virtual ha dado un cambio radical en los individu
 ![ML1](https://i.imgur.com/hGdXXX7.png)
 ![ML2](https://i.imgur.com/ssPSz4s.png)
 ![ML3](https://i.imgur.com/LfrvH10.png)
+   
+   
+      ![Planificación Académica](https://i.imgur.com/0fzxp15.png)
+   ![Inscripción](https://i.imgur.com/dxwm8QA.png)
+   ![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
 
 ## Login
 ![LOGIN](https://i.imgur.com/ctSGdJh.png)
