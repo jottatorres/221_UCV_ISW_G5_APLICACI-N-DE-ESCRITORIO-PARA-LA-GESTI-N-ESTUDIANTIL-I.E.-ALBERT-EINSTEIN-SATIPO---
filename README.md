@@ -415,10 +415,6 @@ En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y en
 ![ML1](https://i.imgur.com/hGdXXX7.png)
 ![ML2](https://i.imgur.com/ssPSz4s.png)
 ![ML3](https://i.imgur.com/LfrvH10.png)
-
-![Planificación Académica](https://i.imgur.com/0fzxp15.png)
-![Inscripción](https://i.imgur.com/dxwm8QA.png)
-![Evaluación de Docentes](https://i.imgur.com/LKT2gmQ.png)
    
 #### 3.3.2. Estructura Modular del SWOO
 #### 3.3.2.1. Diseño de Ventanas
