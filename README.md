@@ -409,14 +409,15 @@ En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y en
 ![Modelo Logico de Clases](https://i.imgur.com/bg0cCAL.png)
    
 #### 3.3. DISEÑO ORIENTADO A OBJETOS
-#### 3.3.1. Modelo Físico
-#### 3.3.1.1. Creación de Esquema y Tablas
-![MF1](https://i.imgur.com/7CfEfsG.png)
-![MF2](https://i.imgur.com/7CfEfsG.png)
+#### 3.3.1  Modelo Físico
 
-![ML1](https://i.imgur.com/hGdXXX7.png)
-![ML2](https://i.imgur.com/ssPSz4s.png)
-![ML3](https://i.imgur.com/LfrvH10.png)
+![MF1](https://i.imgur.com/SDo5Qhr.png)
+![MF2](https://i.imgur.com/g78mS6f.png)
+![MF3](https://i.imgur.com/X2ztNgM.png)
+![MF4](https://i.imgur.com/V9QlqFr.png)
+
+#### 3.3.1.1. Creación de Esquema y Tablas
+![ML1](https://i.imgur.com/p9Qao1h.png)
    
 #### 3.3.2. Estructura Modular del SWOO
 #### 3.3.2.1. Diseño de Ventanas
