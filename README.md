@@ -438,7 +438,16 @@ En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y en
 ###  3.3.2.2. Diseño de Reportes 
 ![REPORTS](https://i.imgur.com/Dg2Hotd.png)
 
-#### 3.3.3. Diagrama de la capa presentación 
-#### 3.3.4. Diagramas de la Capa de Negocio
-#### 3.3.5. Diagrama de la Capa de Datos 
-#### 3.3.6. Diagramas de Componentes
+###  3.3.3 Diagrama de la capa presentación
+![DP](https://i.imgur.com/DfqwPmF.jpg)
+###  3.3.4 Diagramas de la Capa de Negocio
+![DN](https://i.imgur.com/zivhB67.jpg)
+###  3.3.5 Diagrama de la Capa de Datos
+![DCD](https://i.imgur.com/a2afw43.jpg)
+###  3.3.6. Diagramas de Componentes
+![DCM](https://i.imgur.com/HOwRzbV.jpg)
+###  3.3.7. Diagramas de Distribución
+
+EL OBJETIVO DE ESTE DIAGRAMA ES MOSTRAR LAS DISPOSICIÓN DE LAS PARTICIPACIONES FÍSICAS DEL SISTEMA QUE SE ESTÁ CONSTRUYENDO Y LA ASIGNACIÓN RESPECTIVA DE LOS COMPONENTES SOFTWARE DE ESTAS PARTICIPACIONES, ES DECIR LAS RELACIONES FÍSICAS ENTRE LOS COMPONENTES SOFTWARE Y HARDWARE EN EL SISTEMA A INTEGRAR.
+
+![DD](https://i.imgur.com/Aayzknd.jpg)
