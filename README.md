@@ -383,7 +383,8 @@ En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y en
 
 #### 3.2.1.2  Diagramas de Secuencia y Colaboración de Análisis
 ![DS_Inicio_sesion](https://i.imgur.com/Myz51oK.png)
-![DS_Actualizar_datos](https://i.imgur.com/MTjN0FG.png)
+![DS_Actualizar_datos](https://i.imgur.com/aZOtmjY.png)
+![DS_Agregar_notas](https://i.imgur.com/WHgm3Yq.png)
    
 #### 3.2.2. Lista de Clases de Interfaz
 |Nro.| INTERFAZ       | DESCRIPCIÓN |
