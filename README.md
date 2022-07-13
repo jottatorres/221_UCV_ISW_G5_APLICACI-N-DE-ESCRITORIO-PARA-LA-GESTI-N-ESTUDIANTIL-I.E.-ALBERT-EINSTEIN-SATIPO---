@@ -452,3 +452,23 @@ En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y en
 EL OBJETIVO DE ESTE DIAGRAMA ES MOSTRAR LAS DISPOSICIÓN DE LAS PARTICIPACIONES FÍSICAS DEL SISTEMA QUE SE ESTÁ CONSTRUYENDO Y LA ASIGNACIÓN RESPECTIVA DE LOS COMPONENTES SOFTWARE DE ESTAS PARTICIPACIONES, ES DECIR LAS RELACIONES FÍSICAS ENTRE LOS COMPONENTES SOFTWARE Y HARDWARE EN EL SISTEMA A INTEGRAR.
 
 ![DD](https://i.imgur.com/Aayzknd.jpg)
+   
+ ### Conclusiones
+Los padres de familia y/o apoderados pueden tener acceso rápido, detallado y confiable a la información solicitada referente a lo académico en menor tiempo.
+   
+El enfoque basado en procesos aplicado en la implementación del sistema  permite automatizar el proceso administrativo académico de la Institución Educativa “Albert Einsten”-Junín 2022.
+   
+El sistema implementado en la Institución Educativa  “Albert Einsten”-Junín  permite mejorar el proceso administrativo académico.
+   
+### Recomendaciones
+   
+Se recomienda a los docentes actualizar sus contraseñas cada bimestre para mayor seguridad de la información. 
+
+Se recomienda a los docentes y personal administrativo de la Institución Educativa “Albert Einsten”- Junin  tener cuidado con el manejo de los usuarios y contraseñas de cada perfil para evitar la manipulación de las notas, asistencias y demás información de los alumnos
+
+Se recomienda hacer una retroalimentación constante mediante encuestas referente a la opinión de los padres de familia y/o apoderados, para poder tener conocimiento de los puntos de quiebre en los que se tiene que mejorar.
+
+Se recomienda a la Institución Educativa “Albert Einsten”-Junin actualizar el sistema operativo de la PC con la que cuentan en el área administrativa ya que esta es la encargada de soportar el sistema implementado.
+
+
+   
