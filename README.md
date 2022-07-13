@@ -390,7 +390,8 @@ En consecuencia a la pandemia que nos trajo el COVID-19 múltiples negocios y en
 |Nro.| INTERFAZ       | DESCRIPCIÓN |
 |------|----------------|-------------|
 |IT01|I_Logeo         |Ventana que permite el ingreso de ID y contraseña|
-|IT02|I_Menu_principal|Ventana que muestra información del Usuario que dependiendo de su rol podrá editar o visualizar: muestra curso, notas|
+|IT02|I_Menu_principal|Ventana que muestra el menu de inicio que dependiendo de su rol podrá editar o visualizar: muestra curso, notas|
+|IT01|I_Perfil_usuario|Ventana que muestra los datos del usuario y podra editar su informacion personal y el ID y contraseña|
 |IT03|I_Curso|Ventana muestra información de la curso como: aula, horario, docente asignado y número de estudiantes|
 |IT04|I_Nota|Ventana que muestra una formulario donde se podrá ingresar o visualizar las notas del estudiante|
 
